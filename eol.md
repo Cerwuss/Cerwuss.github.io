@@ -1,63 +1,316 @@
-# Jakub Červinka: Vyjádření ke "kauze sex.cz".
+# Jakub Červinka: Moje osobní vyjádření k případu „sex.cz“
 
-Jmenuji se Jakub Červinka a jsem spojumajitelem firmy EOL (...). x. října 2023 jsem byl spolu s dalšími obviněn z kuplířství (...) Toto je moje souhrnné vyjádření k tomuto obvinění a souvisejícím věcem.
+Poslední aktualizace: *doplním*
 
-Tuto stránku jsem vyhotovil především proto, že ohledně tohoto případu koluje mnoho nepravdivých domněnek a média o něm opakovaně informují zkresleně, včetně toho, že překrucují vyjádření, která jsem jim osobně podal v rozhovorech (viz sekce ["Články v médiích"](#m%C3%A1-vyj%C3%A1d%C5%99en%C3%AD-ke-konkr%C3%A9tn%C3%ADm-%C4%8Dl%C3%A1nk%C5%AFm-v-m%C3%A9di%C3%ADch).
+Tento text jsem napsal protože o mém případu koluje mnoho domněnek a zjednodušení. Chci na jednom místě jasně a srozumitelně popsat:
 
-Toto vyjádření podávám pouze za svou osobu. Nemohu mluvit za ostatní obviněné.
+- co se podle policie mělo stát,
+- co se ve skutečnosti dělo,
+- proč si myslím, že se tady někdo pokouší trestně postihnout něco, co bylo v Česku přes 30 let běžnou a otevřenou součástí médií a internetu,
+- a proč jsem přesvědčený, že jsem nepáchal trestný čin.
 
-Poslední aktualizace této stránky: 20. 1. 2024.
+---
 
-## Shrnutí základních skutečností
+## Obsah
 
-Jsem spoluvlastníkem společností....
+- [Stručné shrnutí](#stručné-shrnutí)
+- [Co policie říká, že se dělo – a co z toho je pravda](#co-policie-říká-že-se-dělo--a-co-z-toho-je-pravda)
+- [Co se ve skutečnosti dělo](#co-se-ve-skutčnosti-dělo)
+- [Proč si myslím, že nejde o kuplířství](#proč-si-myslím-že-nejde-o-kuplířství)
+- [Moje role ve firmě](#moje-role-ve-firmě)
+- [Jak erotická inzerce existovala v ČR od roku 1989](#jak-erotická-inzerce-existovala-v-čr-od-roku-1989)
+- [Proč považuji obvinění za nepochopení principu inzerce](#proč-považuji-obvinění-za-nepochopení-principu-inzerce)
+- [Časté otázky (FAQ)](#časté-otázky-faq)
+- [Závěr](#závěr)
+- [Kontakt](#kontakt)
 
-Byl jsem zadržen a obviněn z... Toto obvinění popírám.
+---
 
-Spolu se mnou byli obviněni...
+## Stručné shrnutí
 
-## Odpovědi na často kladené dotazy
+Jsem obviněn z toho, že jsem měl „kořistit z prostituce“ díky provozu internetového portálu sex.cz.
 
-### Z čeho přesně jsi byl obviněn?
+Chci jasně říct:
 
-Já a firma EOS, jejímž jsem spoluvlastníkem, jsme byli obviněni z kuplířství (...)
+- ano, na stránkách se inzerovaly i erotické služby,
+- ano, je to pravda a nikdy jsem to neskrýval,
+- ale ne – z toho ještě automaticky neplyne trestný čin.
 
-Nebyl jsem obviněn z ničeho jiného, např. z nátlaku, sexuálního zneužívání, omamných látek...
+Erotická inzerce existuje v Česku od roku 1989:
 
-### Kdo další byl obviněn s tebou?
+- byla v Annonci a dalších inzertních novinách,
+- objevovala se v řadě časopisů a později na TV stanicích,
+- běžela na různých internetových portálech včetně velkých erotických serverů.
+- běží dodnes na óčku
+- amateri.cz
+- atd. 
 
-Společně se mnou byl z kuplířství obviněn spoluvlastníky společnosti EOL Adrej Anastasov a 7 dalších zaměstnanců (....) V obvinění se píše doslova:
+U nás to fungovalo ve stejném modelu jako kdekoliv jinde:
 
-> citát citát citát citát citát citát citát citát citát citát citát citát citát citát citát citát citát citát citát citát citát citát citát citát citát citát citát citát citát citát
+- pevná cena za reklamu,
+- žádný podíl na výdělku inzerenta,
+- běžný inzertní vztah.
 
-### Souhlasíš s obviněním z kuplířství?
+Co mi klade policie za vinu, je podle mého názoru pokus překvalifikovat inzerci na trestný čin.
 
-Rozhodně ne. Server sex.cz funguje od roku 19XX. Byl spuštěn po patřičné právní analýze a jsem přesvědčen, že nijak neporušuje zákony ČR. Za tuto dobu jsme mnohokrát aktivně spolupracovali s Policií ČR při jejích vyšetřováních a žádostech o poskytnutí informací. Podrobnou argumentaci, kterou hodlám předložit při soudním jednání, zde nebudu zveřejňovat.
+---
 
-### Víš o tom, že Andrej Anastasov bral drogy, dopouštěl se na někom násilí, nebo se dopouštěl jiné trestné činnosti?
+## Co policie říká, že se dělo – a co z toho je pravda
 
-Nejsem si toho vědom. Během naší spolupráce v EOL jsem si ničeho takového nevšiml. Nevím ani o tom, že by byl A. Anastasov obviněn z něčeho jiného, než z kuplířství (společně se mnou). Netvrdím, že nebyl z ničeho jiného obviněn a že to nedělal, ale **nevím o tom**. Od října 2024 spolu nekomunikujeme.
+Nechci nic přikrášlovat ani skrývat. To, co je níže, je pravda.
 
-### Jak jsi byl postižen zasáhem Policie ČR?
+### 1) Na webu byly inzeráty, ve kterých lidé nabízeli erotické služby
 
-Bylo mi zabaveno (...). Byl mi zablokovaán účet (...). Přišel jsem o příjmy (...)
+Ano. Na sex.cz inzerovali i lidé, kteří nabízeli erotické služby, včetně prostituce. Stejně jako na desítkách dalších webů v ČR. A rovnou konstatuji, že jsme si tyoho byli vědomi.
 
-## Má vyjádření ke konkrétním článkům v médiích
+### 2) Tito lidé platili firmě EOL.cz s.r.o. za zveřejnění své inzerce
 
-### Článek ["Pád krále erotických inzerátů"](https://www.e15.cz/domaci/pad-krale-erotickych-inzeratu-byznys-majitele-sex-cz-jako-by-vypadl-z-devadesatek-1412897), vydáno 15. 1. 2024:
+Ano. Platili pevnou měsíční částku za inzertní prostor.
 
-Ve článku stojí:
+### 3) Inzerenti byli různí – prostitutky, masérky, azylové pokoje, kluby, sexshopy, prodejci porpůrných prostředků…
 
-> Policejní vyšetřování podle trestního oznámení založeného ve spise odstartovalo v březnu 2022. Anastasov tvrdí, že oznámení je falešné, protože je podepsané jedním z obviněných členů skupiny.
+Ano. Sex.cz a přidružené stránky nebyly pouze „weby prostitutek“, ale erotický inzertní portál:
 
-Nemohu se vyjadřovat k tomu, co tvrdí Anastasov, ale já osobně autorovi článku řekl, toto trestní oznámení, podepsané jménem jednoho z mých spolupracovníků, nebylo podáno ani odesláno tímto spolupracovníkem, což vypověděl přímo tento spolupracovník hned v březnu 2022, kdy se věc vyšetřovala. Tedy oznámení je skutečně "podepsané jedním z obviněných členů skupiny", ale tento "člen skupiny" od počátku trvá na tom, že takové oznámení nikdy nepodal. Tato skutečnost je zřejmá i z toho, že "oznámení" obsahuje řadu faktických nesmyslů, například adresu odesilatele, která patří jinému zaměstnanci EOL než tomu, který oznámení údajně podal.
+- individuální inzerenti,
+- azylové pokoje,
+- masážní salony,
+- kluby,
+- sexshopy,
+- různé další služby.
 
-### Článek v médiích dne XXX YYY:
+### 4) Firma měla z inzerce tržby
 
-Tento článek lže jako když tiskne!. bla bla bla bla bla blabla bla bla bla blabla bla bla bla blabla bla bla bla blabla bla bla bla blabla bla bla bla blabla bla bla bla blabla bla bla bla blabla bla bla bla blabla bla bla
+Ano. Stejně jako jakákoli jiná firma prodávající reklamu nebo inzertní prostor.
+
+Tohle všechno je pravda a nic z toho nezapírám.
+
+S čím nesouhlasím, je závěr, který z toho policie dělá:
+
+> že když někdo zaplatí za reklamu a je to osoba, která nabízí erotické služby, pak z její prostituce automaticky „kořistím“.
+
+---
+
+## Co se ve skutečnosti dělo
+
+Popíšu to co nejjednodušeji.
+
+### Web fungoval jako jakýkoli jiný reklamní portál
+
+- inzerent zaplatil pevnou částku za měsíc,
+- dostal prostor, kde mohl zveřejnit text a fotky,
+- nic víc.
+
+### Výdělek inzerenta nás nezajímal
+
+Neřešili jsme:
+
+- kolik má klientů,
+- kolik vydělává,
+- jestli má v daném měsíci 0 klientů nebo 200.
+
+Nevzali jsme si ani korunu z jeho konkrétních výdělků.
+
+### Poskytovali jsme technický provoz, ne služby spojené s prostitucí
+
+- nevlastnili jsme žádné byty, kluby, provozy,
+- neorganizovali jsme práci inzerentů,
+- neurčovali jsme ceny ani podmínky jejich služeb,
+- nepřiváděli jsme jim klienty jinak než tím, že jsme zobrazili jejich reklamu.
+
+### Šlo o reklamu, ne o řízení prostituce
+
+Náš vztah s inzerenty byl:
+
+- oni si koupili reklamu,
+- my jsme jim ji zobrazili,
+- tím náš vztah začal a skončil.
+
+---
+
+## Proč si myslím, že nejde o kuplířství
+
+Vysvětlím to tak, aby tomu rozuměl i člověk, který nikdy nečetl trestní zákoník.
+
+### 1) Kuplířství znamená, že někdo žije přímo z prostituce jiné osoby
+
+Typicky:
+
+- bere procenta,
+- vybírá výpalné,
+- odčerpává část výdělku prostitutky,
+- přímo se podílí na jejím zisku z prostituce.
+
+My jsme žádný podíl na jejich výdělku neměli.
+
+### 2) My jsme měli příjem pouze z reklamy
+
+Příklad:
+
+- prostitutka má 0 klientů → my dostaneme 4 000 Kč za inzerci,
+- prostitutka má 100 klientů → my dostaneme 4 000 Kč,
+- prostitutka má 300 000 Kč měsíčně → my dostaneme 4 000 Kč.
+
+Náš příjem je úplně nezávislý na tom, jestli vydělá 0 Kč nebo 300 000 Kč.
+
+To není ekonomická závislost na prostituci. To je běžný prodej reklamy.
+
+### 3) Takto funguje inzerce v celé ČR už od 90. let
+
+Od roku 1989:
+
+- Annonce a další inzertní noviny,
+- různé seznamky a erotické rubriky,
+- internetové portály jako Amatéři, Seznamka69 a mnoho dalších.
+
+Všude funguje princip:
+
+- pevná cena za inzerát,
+- žádný podíl na konkrétních výdělcích,
+- běžný obchodní vztah.
+
+Nikdy se to v ČR systematicky nekvalifikovalo jako kuplířství.
+
+### 4) Prostituce je v ČR legální
+
+Prostituce sama o sobě není trestná. Zdaní se jako jiná ekonomická činnost.
+
+Je tedy logické, že lidé:
+
+- si pronajímají prostory,
+- platí telefonní paušály,
+- kupují reklamu,
+- platí webové služby.
+
+Inzerce je běžný náklad podnikání, ne trestná činnost.
+
+### 5) Stát s námi dlouhodobě běžně komunikoval
+
+- policie se na nás opakovaně obracela v konkrétních kauzách,
+- získávala od nás informace k jednotlivým inzerátům,
+- nikdy nám nebylo sděleno, že by samotná inzerce byla považována za trestnou.
+
+Před vstupem do firmy jsme si nechali udělat právní analýzy, které dospěly k závěru, že tento model není kuplířství.
+
+---
+
+## Moje role ve firmě
+
+Moje činnost ve firmě EOL byla:
+
+- technická správa webu sex.cz a dalších webů,
+- koordinace programátorských a kodérských prací,
+- správa administračních nástrojů (vnitřní systém),
+- výroba grafiky a bannerů,
+- řešení technických problémů a stížností druhého řádu (technického rázu),
+- právní koordinace při některých akvizicích (např. při koupi jiných webů).
+
+Nedělal jsem:
+
+- řízení práce inzerentů,
+- stanovování cen jejich služeb,
+- rozdělování jejich zisků,
+- klasické „pasácké“ aktivity.
+
+Z mého pohledu šlo o IT a mediální projekt – o provoz velkého webu a jeho technický a grafický rozvoj.
+
+---
+
+## Jak erotická inzerce existovala v ČR od roku 1989
+
+Po roce 1989 byla erotická inzerce:
+
+- běžnou součástí novin a inzertních titulů,
+- přítomná v různých časopisech,
+- později i na televizních stanicích,
+- a poté logicky přešla i na internet.
+
+Nikdy nebyla vnímána jako kuplířství jen proto, že někdo za inzerát zaplatí.
+
+My jsme fungovali stejně jako dřívější tištěné rubriky – jen v online podobě:
+
+- inzerát,
+- pevná cena,
+- žádné procento z výdělku.
+
+---
+
+## Proč považuji obvinění za nepochopení principu inzerce
+
+V jádru věci jde o záměnu dvou rozdílných situací:
+
+### Co je normální obchodní vztah
+
+- prostitutka zaplatí za reklamu,
+- pronajme si byt,
+- koupí si telefon, oblečení, dopravu.
+
+Všichni ti, kdo jí tyto služby poskytují, žijí z toho, že prodávají svou službu nebo produkt, ne z její prostituce jako takové.
+
+### Co je kuplířství
+
+- někdo je napojen přímo na výdělek prostitutky,
+- bere z každé její zakázky procenta nebo pevnou částku,
+- bez skutečné protihodnoty.
+
+Pokud by bylo pravda, že „kdo přijímá peníze od prostitutky, kořistí z prostituce“, pak by byli kuplíři:
+
+- pronajímatelé bytů,
+- telefonní operátoři,
+- dopravci,
+- restaurace,
+- e-shopy s erotickým zbožím,
+- jakýkoli poskytovatel služeb, který má mezi klienty osoby provozující prostituci.
+
+Stejně absurdní je dělat kuplíře z provozovatele inzertního portálu, který prodává reklamu.
+
+---
+
+## Časté otázky (FAQ)
+
+### Nabízeli lidé na vašem webu erotické služby?
+
+Ano. Na rovinu: ano.
+
+### Věděl jste o tom?
+
+Ano. Nikdy jsem to neskrýval a ani nebyl důvod to skrývat.
+
+### Brali jste podíl z jejich výdělků?
+
+Ne. Nikdy. Měli jsme pouze pevnou cenu za inzerci.
+
+### Je pravda, že jste měli velké tržby?
+
+Ano. Stejně jako každý velký portál s vysokou návštěvností, který prodává reklamu.
+Velké tržby jsou důsledkem velkého počtu inzerentů a dlouhé doby provozu, ne toho, že bychom někomu brali procenta z prostituce.
+
+### Je pravda, že bez sex.cz by prostituce nebyla?
+
+Ne. Prostitutky existovaly dávno před vznikem sex.cz i po jeho ukončení.
+Po zásahu policie se inzerenti přesunuli na jiné weby. V ČR dnes existují desítky portálů nabízejících erotickou inzerci.
+
+### Mluvíte za všechny obviněné?
+
+Ne. Toto je moje osobní vyjádření za mě jako fyzickou osobu.
+
+---
 
 ## Závěr
 
-Pokud máte k tomuto textu dotazy, adresujte je na můj e-mail <cerv@gods.cz>.
+Jsem přesvědčený, že:
 
-Jakub Červinka.
+- prodávání reklamy není kuplířství,
+- neodčerpával jsem výdělek prostitutek,
+- šlo o standardní, právně prověřené podnikání,
+- erotická inzerce byla v ČR běžná tři desetiletí,
+- a kriminalizovat ji nyní znamená trestně postihovat něco, co dlouhodobě fungovalo jako normální součást mediálního trhu.
+
+Tento text jsem napsal proto, aby kdokoli, kdo se o věc zajímá, měl možnost vidět celý obraz, ne jen zkratkovité formulace z trestního spisu.
+
+---
+
+## Kontakt
+
+Pokud máte k tomuto textu dotazy, můžete mi napsat na e-mail:
+
+<cerv@gods.cz>
