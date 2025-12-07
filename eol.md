@@ -61,13 +61,13 @@ Nechci nic přikrášlovat ani skrývat. To, co je níže, je pravda.
 
 ### 1) Na webu byly inzeráty, ve kterých lidé nabízeli erotické služby
 
-Ano. Na sex.cz inzerovali i lidé, kteří nabízeli erotické služby, včetně prostituce. Stejně jako na desítkách dalších webů v ČR. A rovnou konstatuji, že jsme si tyoho byli vědomi.
+Ano. Na sex.cz inzerovali i lidé, kteří nabízeli erotické služby, včetně prostituce. Stejně jako na desítkách dalších webů v ČR. A rovnou konstatuji, že jsme si toho byli vědomi.
 
 ### 2) Tito lidé platili firmě EOL.cz s.r.o. za zveřejnění své inzerce
 
 Ano. Platili pevnou měsíční částku za inzertní prostor.
 
-### 3) Inzerenti byli různí – prostitutky, masérky, azylové pokoje, kluby, sexshopy, prodejci porpůrných prostředků…
+### 3) Inzerenti byli různí – prostitutky, masérky, azylové pokoje, kluby, sexshopy, prodejci porpůrných prostředků atd…
 
 Ano. Sex.cz a přidružené stránky nebyly pouze „weby prostitutek“, ale erotický inzertní portál:
 
@@ -84,9 +84,9 @@ Ano. Stejně jako jakákoli jiná firma prodávající reklamu nebo inzertní pr
 
 Tohle všechno je pravda a nic z toho nezapírám.
 
-S čím nesouhlasím, je závěr, který z toho policie dělá:
+S čím nesouhlasím, je závěr, který z toho státní zástupce dělá:
 
-> že když někdo zaplatí za reklamu a je to osoba, která nabízí erotické služby, pak z její prostituce automaticky „kořistím“.
+> že když někdo opakovaně bere peníze od osoby provozující prostituci, pak z její prostituce automaticky „kořistí“.
 
 ---
 
@@ -144,16 +144,44 @@ My jsme žádný podíl na jejich výdělku neměli.
 
 ### 2) My jsme měli příjem pouze z reklamy
 
-Příklad:
+Tato platba:
+- není navázána na skutečný výkon prostituce, 
+- není navázána na počet klientů, které inzerent obdrží, 
+- není navázána na cenu ani výši jeho výdělku. 
+Jde o standardní vztah mezi poskytovatelem reklamního/inzertního prostoru a inzerentem.
 
-- prostitutka má 0 klientů → my dostaneme 4 000 Kč za inzerci,
-- prostitutka má 100 klientů → my dostaneme 4 000 Kč,
-- prostitutka má 300 000 Kč měsíčně → my dostaneme 4 000 Kč.
+**Existuje reálná a přiměřená protihodnota**
+
+Webové stránky měly návštěvnost cca 150–200 tisíc unikátních uživatelů denně. Cena za měsíční prezentaci (řádově několik tisíc korun) tak odpovídala či dokonce byla pod obvyklou cenou za reklamu na obdobně navštěvovaných webech.
+Inzerent tedy platil za to, že jeho inzerát uvidí velké množství návštěvníků – to je přesně povaha reklamní služby.
+Výše příjmu je nezávislá na výtěžku z prostituce
+
+**Prakticky to lze ilustrovat na třech situacích:**
+
+Osoba A si zaplatí inzerát na webu za 4 000 Kč a z jakéhokoli důvodu se další měsíc prostituci vůbec nevěnuje.
+Výtěžek z prostituce osoby A = 0 Kč.
+Hrubý zisk provozovatele webu = 4 000 Kč.
+
+Osoba B si zaplatí inzerát za 4 000 Kč a prostituci vykonává sporadicky, např. 20 klientů po 2 000 Kč.
+Výtěžek z prostituce osoby B = 40 000 Kč.
+Hrubý zisk provozovatele webu = stále 4 000 Kč.
+
+Osoba C si zaplatí inzerát za 4 000 Kč a prostituci vykonává intenzivně, např. 5 klientů denně, 5 dní v týdnu, celkem desítky klientů měsíčně po 2 000 Kč.
+Výtěžek z prostituce osoby C může činit řádově 200 000 Kč.
+Hrubý zisk provozovatele webu = stále 4 000 Kč.
+
+Z uvedeného je patrné, že zisk provozovatele webu **nemá přímou souvislost s výtěžkem z prostituce** inzerentů. Na rozdíl od typického pasáka zde neplatí, že „čím více prostitutka vydělá, tím více vydělám já“. Příjem je odvozen pouze od počtu zakoupených inzerátů, nikoli od objemu prostituční činnosti.
+
+Nejde o ekonomické parazitování, ale o běžný obchodní vztah
+
+Společnost neodčerpává žádnou část výtěžku z jednotlivých prostitučních úkonů. Poskytuje inzertní prostor za tržně přiměřenou cenu a přebírá podnikatelské riziko (náklady na provoz webu, marketing, technickou správu atd.).
+
+Ekonomicky jde o běžný vztah mezi poskytovatelem inzertní služby a inzerentem, nikoli o pasácký vztah, kdy pachatel žije přímo z prostituční činnosti jiné osoby.
 
 Náš příjem je úplně nezávislý na tom, jestli vydělá 0 Kč nebo 300 000 Kč.
 
-To není ekonomická závislost na prostituci. To je běžný prodej reklamy.
-
+To není ekonomická závislost na prostituci. **To je běžný prodej reklamy.
+**
 ### 3) Takto funguje inzerce v celé ČR už od 90. let
 
 Od roku 1989:
