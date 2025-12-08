@@ -158,15 +158,15 @@ Výše příjmu je nezávislá na výtěžku z prostituce
 
 **Prakticky to lze ilustrovat na třech situacích:**
 
-Osoba A si zaplatí inzerát na webu za 4 000 Kč a z jakéhokoli důvodu se další měsíc prostituci vůbec nevěnuje.
+**Osoba A** si zaplatí inzerát na webu za 4 000 Kč a z jakéhokoli důvodu se další měsíc prostituci vůbec nevěnuje.
 Výtěžek z prostituce osoby A = 0 Kč.
 Hrubý zisk provozovatele webu = 4 000 Kč.
 
-Osoba B si zaplatí inzerát za 4 000 Kč a prostituci vykonává sporadicky, např. 20 klientů po 2 000 Kč.
+**Osoba B** si zaplatí inzerát za 4 000 Kč a prostituci vykonává sporadicky, např. 20 klientů po 2 000 Kč.
 Výtěžek z prostituce osoby B = 40 000 Kč.
 Hrubý zisk provozovatele webu = stále 4 000 Kč.
 
-Osoba C si zaplatí inzerát za 4 000 Kč a prostituci vykonává intenzivně, např. 5 klientů denně, 5 dní v týdnu, celkem desítky klientů měsíčně po 2 000 Kč.
+**Osoba C** si zaplatí inzerát za 4 000 Kč a prostituci vykonává intenzivně, např. 5 klientů denně, 5 dní v týdnu, celkem desítky klientů měsíčně po 2 000 Kč.
 Výtěžek z prostituce osoby C může činit řádově 200 000 Kč.
 Hrubý zisk provozovatele webu = stále 4 000 Kč.
 
