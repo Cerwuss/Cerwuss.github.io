@@ -89,6 +89,76 @@ S čím nesouhlasím, je závěr, který z toho státní zástupce dělá:
 
 > že když někdo opakovaně bere peníze od osoby provozující prostituci, pak z její prostituce automaticky „kořistí“.
 
+### 5) Policie tvrdí, že jsme „kontrolovali inzeráty“ protože jsame mluvili do jejich obsahu
+
+Ano, je pravda, že jsme inzeráty kontrolovali.  
+Ale je potřeba jasně říct **co** jsme kontrolovali a hlavně **proč**.
+
+Policie to interpretuje tak, že jsme kontrolovali obsah prostituce.  
+To není pravda.
+
+Ve skutečnosti jsme kontrolovali jen to, co kontroluje, nebo by alespoň měl kontrolovat **každý větší inzertní portál na světě** – tedy:
+
+- aby tam nebyly falešné fotky,  
+- aby tam nebyly evidentní podvody,  
+- aby inzerát odpovídal pravidlům webu.
+
+Nic z toho **nijak nesouviselo** s tím:
+
+- jaké služby inzerent nabízí,  
+- jestli jde o erotiku, masáže nebo něco jiného,  
+- jestli je poskytuje za peníze nebo zdarma,  
+- kolik si účtuje a zda vůbec něco účtuje.
+
+To nás nezajímalo a ani jsme do toho nezasahovali.
+
+### Přirovnání, které pochopí každý: jako S-Auto
+
+Představte si běžnou inzertní službu, třeba S-Auto.
+
+Co kontroluje jejich administrátor?
+
+- jestli fotka auta není ukradená z internetu,  
+- jestli někdo nenahrál Ferrari, které vůbec nevlastní,  
+- jestli inzerát není podvod.
+
+Co **nekontroluje**?
+
+- za kolik inzerent auto prodává,  
+- jak obchod proběhne,  
+- jestli si cenu domluví v hotovosti nebo převodem.
+
+Přesně takhle to fungovalo i u nás.
+
+### Co bylo naším cílem?
+
+Pouze to, aby na webu:
+
+- nebyly falešné fotky, nebo fotky profesionálním fotografem upravené k nepoznání
+- nebyly falešné profily,
+- nebyly podvody,
+- nebyly informace, které porušují pravidla portálu (např. uvedené ceny – ty jsme nechtěli zobrazovat vůbec).
+
+Náš cíl byl jednoduchý:  
+**aby byl web důvěryhodný a aby lidé věděli, že fotka je opravdu toho člověka, který inzeruje.**
+
+### A co jsme neřešili?
+
+- jestli inzerent nabízí erotiku, masáže nebo jen pronájem pokoje,  
+- jestli služby poskytuje za peníze nebo zdarma,  
+- jak probíhá komunikace mezi inzerentem a klientem,  
+- jaká je cena služeb,  
+- jaký má kdo výdělek.
+
+To jsme ani nemohli vědět, ani to nebylo naší rolí.
+
+---
+
+Tedy ano, **kontrolovali jsme**, ale jen to, co kontroluje každý poskytovatel inzerce –  
+**pravost fotek a dodržení pravidel webu**, nikoli samotnou prostituci. A to proto, protože naš profit byl z inzerce a ne z prostituce.
+
+
+
 ---
 
 ## Co se ve skutečnosti dělo
