@@ -20,6 +20,7 @@ Tento text jsem napsal protože o mém případu koluje mnoho domněnek a zjedno
 - [Moje role ve firmě](#moje-role-ve-firmě)
 - [Jak erotická inzerce existovala v ČR od roku 1989](#jak-erotická-inzerce-existovala-v-čr-od-roku-1989)
 - [Proč považuji obvinění za nepochopení principu inzerce](#proč-považuji-obvinění-za-nepochopení-principu-inzerce)
+- [Proč mělo být použito mírnější řešení než trestní řízení](#proč-mělo-být-použito-mírnější-řešení-než-trestní-řízení)
 - [Časté otázky (FAQ)](#časté-otázky-faq)
 - [Závěr](#závěr)
 - [Kontakt](#kontakt)
@@ -180,8 +181,8 @@ Ekonomicky jde o běžný vztah mezi poskytovatelem inzertní služby a inzerent
 
 Náš příjem je úplně nezávislý na tom, jestli vydělá 0 Kč nebo 300 000 Kč.
 
-To není ekonomická závislost na prostituci. **To je běžný prodej reklamy.
-**
+To není ekonomická závislost na prostituci. **To je běžný prodej reklamy.**
+
 ### 3) Takto funguje inzerce v celé ČR už od 90. let
 
 Od roku 1989:
@@ -290,6 +291,77 @@ Pokud by bylo pravda, že „kdo přijímá peníze od prostitutky, kořistí z 
 - jakýkoli poskytovatel služeb, který má mezi klienty osoby provozující prostituci.
 
 Stejně absurdní je dělat kuplíře z provozovatele inzertního portálu, který prodává reklamu.
+
+---
+
+## Proč mělo být použito mírnější řešení než trestní řízení
+
+Rád bych zde zařadil jednu důležitou, byť trochu odbornější část.  
+Je zásadní proto, že vysvětluje, proč si myslím, že samotné zahájení trestního stíhání v této věci bylo chybou.
+Můj osobní názor je, že se v našem případě nejedná o tresný čin, ale i v případě, že někdo dojde k jinému závěru platí.
+
+### Trestní právo má být až poslední možnost (tzv. *ultima ratio*)
+
+V českém právu platí zásada, že trestní právo se má použít **jen tehdy, pokud už žádný jiný, mírnější prostředek nestačí**.  
+Tuto zásadu znají i soudy a dlouhodobě ji zdůrazňují (např. Nejvyšší soud ve stanovisku Tpjn 301/2012 a Ústavní soud v nálezech I. ÚS 3113/13, II. ÚS 3080/16, II. ÚS 474/19).
+
+Zjednodušeně řečeno:
+
+> „Pokud lze určitou situaci vyřešit bez trestního řízení, nesmí se trestní řízení použít.“
+
+### Co to znamená v praxi?
+
+Než policie nebo státní zástupce zahájí trestní stíhání, mají se ptát:
+
+- Lze to vyřešit správním opatřením?  
+- Lze to upravit zákazem, omezením nebo regulací dané činnosti?  
+- Lze to vyřešit dohodou, upozorněním, nápravou provozu webu?  
+- Lze problém odstranit bez zásahu trestního práva?
+
+Pokud ANO, pak se trestní řízení zahájit **nemá**.
+Upozorňuji, že toto není na uvážení orgánů, ale povinnost.
+
+### V mém případě nic z toho neudělali
+
+Ze spisu vyplývá:
+
+- Policie ani státní zástupce **nezkusili ani jeden** mírnější prostředek.  
+- Nikde není uvedeno, **proč** by např. správní zásah, upozornění nebo omezení inzerce nepostačovaly.
+- Pouze bylo formálně konstatováno, že „mírnější prostředky nepřipadají v úvahu“.  
+
+Bez jediného vysvětlení, **proč** by nepřipadaly v úvahu.  
+Bez jediného pokusu o jejich použití.  
+Bez jediné zmínky, **jakou konkrétní škodu** by měly chránit.
+
+To je v příkrém rozporu s tím, co požaduje judikatura Nejvyššího a Ústavního soudu.
+
+### Přitom mírnější řešení existovala – a byla by fungovala
+
+Stačilo například:
+
+- uložit omezení některých typů inzerce,  
+- uložit povinnost zvýšené moderace,  
+- upravit pravidla zobrazování inzerátů,  
+- nebo případně činnost webu správně regulovat.
+
+To je běžné v jiných oblastech podnikání – od hazardu po reklamu.  
+Nic z toho však státní zastupitelství ani policie ani nezkusily, ani nevysvětlily, proč to údajně „nejde“.
+
+### Proč je to důležité?
+
+Protože trestní právo má být použito **jen tam, kde jiný způsob ochrany selže**.  
+V tomto případě však:
+
+- nebyla popsána žádná konkrétní škoda,  
+- nebylo prokázáno, že by naše činnost někoho ohrozila,  
+- nebylo vysvětleno, proč by mírnější opatření nestačila,  
+- nebylo ani zkusmo použito jediné z nich.
+
+Jednoduše řečeno:
+
+> **Trestní řízení bylo použito jako první možnost, ač mělo být až poslední.**
+
+A právě to je jeden z hlavních důvodů, proč považuji zahájení trestního stíhání v této věci za nepřiměřené a nesprávné.
 
 ---
 
