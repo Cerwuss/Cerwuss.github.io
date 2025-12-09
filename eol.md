@@ -43,9 +43,9 @@ Moje jméno není zcela neznámé. Dlouhé roky se pohybuji v oblasti IT, komuni
 
 Chci tím říct toto:
 nepodnikal jsem v sexuálních službách „odjakživa“.
-Do této oblasti jsem vstoupil až v listopadu 2017 a pouze jako technologický správce a inzertní platformy, nikoli jako kdokoli, kdo by se jakkoli podílel na prostituci. 
+Do této oblasti jsem vstoupil až v listopadu 2017 a pouze jako technologický správce inzertní platformy, nikoli jako kdokoli, kdo by se jakkoli podílel na prostituci. 
 
-Teď si možná někteří z vás řeknou: „Dobře mu tak, prodával prostitutky,“ nebo že se snažím bránit něco nemorálního.
+Teď si možná někteří z vás řeknou: „Dobře mu tak, prodával prostitutky,“ nebo že se snažím bránit něco nelegálního.
 Ne. Nedělal jsem nic nelegálního. Nic, co by porušovalo zákony této země. Všechny výdělky byly legální, zdaněné a pocházely z prodeje reklamy – nikoliv z prostituce kohokoli.
 
 Proto považuji zásah NCOZ, který celou věc odstartoval, za bezprecedentní útok na podnikání, na presumpci neviny, na základní právní principy a na lidskou důstojnost.
@@ -525,7 +525,7 @@ Velké tržby jsou důsledkem velkého počtu inzerentů a dlouhé doby provozu,
 ### Je pravda, že bez sex.cz by prostituce nebyla, nebo byla ve zmenšené míře?
 
 Ne. Prostitutky existovaly dávno před vznikem sex.cz i po jeho ukončení v naprosto nezmenšené míře. Po zásahu policie se inzerenti instantně přesunuli na jiné weby a sociální sítě. Nikde ve spisu není sebemenší důkaz, že by se po zavření sex.cz v jakékoli míře omezila prostituce. Ani jediný příklad. V ČR dnes existují desítky portálů nabízejících erotickou inzerci.
-Například portál amatéři.cz nabral do měsíce od zavření portálu sex.cz nekolik nových moderátorů aby zvládli moderovat přesun inzerce. a ti co nepřešli tam, řesli do anonnce a dalších.
+Například portál amatéři.cz nabral do měsíce od zavření portálu sex.cz nekolik nových moderátorů aby zvládli moderovat přesun inzerce. a ti co nepřešli tam, přesli do Anonnce a dalších.
 
 ### Mluvíte za všechny obviněné?
 
