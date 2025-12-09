@@ -13,6 +13,7 @@ Tento text jsem napsal protože o mém případu koluje mnoho domněnek a zjedno
 
 ## Obsah
 
+- [Úvod](uvod)
 - [Stručné shrnutí](#stručné-shrnutí)
 - [Co policie říká, že se dělo – a co z toho je pravda](#co-policie-říká-že-se-dělo--a-co-z-toho-je-pravda)
 - [Co se ve skutečnosti dělo](#co-se-ve-skutčnosti-dělo)
@@ -24,6 +25,36 @@ Tento text jsem napsal protože o mém případu koluje mnoho domněnek a zjedno
 - [Časté otázky (FAQ)](#časté-otázky-faq)
 - [Závěr](#závěr)
 - [Kontakt](#kontakt)
+
+---
+
+## Úvod
+
+Jmenuji se Jakub Červinka a rád bych vám na této stránce popsal svůj příběh – příběh, který mě postavil do situace, o níž by mě v životě nenapadlo, že ji vůbec zažiju. Chci vám vyprávět o podnikání, které bylo v České republice běžné více než dvě desetiletí, a které přesto skončilo bezprecenetním trestním stíháním, zvůlí státní moci a likvidačním tlakem systému, jenž se rozhodl udělat z bývalých kolegů a zaměstnanců „organizovanou zločineckou skupinu“.
+
+Policie a státní zastupitelství ze mě udělaly zločince – člověka, kterým jsem nikdy nebyl a nejsem. O tom jsem přesvědčen nejen lidsky, ale také na základě českých i evropských zákonů. Přesto nám byly obstaveny majetky jasně a prokazatelně nesouvisející s čímkoli trestním, přesto jsme byli veřejně i v úředních dokumentech jasně mnohokrát označeni za kuplíře, čímž bylo ignorováno naše ústavní právo na presumci nevinny, a přesto se státní orgány pokoušejí naši profesní i lidskou pověst zcela zničit.
+
+O mé kauze se v médiích většinou mlčí. A když už se nějaká zpráva objeví, je to obvykle jednostranný opis policejního textu bez minimální snahy o objektivitu. Tady bych vypíchnul jedinou výjimku, kterou je Jakub Zelenka. Jakkoli s ním mohu v něčem nesouhlasit, tak je to jediný autor textu v této kauze, kterého vůbec napadlo zeptat se i druhé strany. Jediný skutečný novinář. Nebudu hodnotit, co jsou ostatní, ale novináři určitě ne. A protože většina lidí má přirozený sklon věřit, že „přece by stát nikdo nikoho jen tak neobvinil, kdyby se nic nestalo“, vzniká čtením jednostranných a neobjektivních kopií policejních tiskovek dojem, že „na tom něco určitě bude“. Joseph Goebbels a Jaroslav Ibehej mohou mít radost.
+Nevyčítám to nikomu, také jsem tak dřív přemýšlel.
+
+Chci vám zde nabídnout ucelený pohled na kauzu portálu Sex.cz. Nejen lidský příběh, ale také jasné vysvětlení toho, co jsme skutečně dělali, co říká zákon a proč jsem přesvědčen, že jsme se ničeho trestného nedopustili. A pokud někde skutečně došlo k bezprecedentnímu selhání, pak to nebylo na straně mojí ani mých kolegů, ale na straně státních orgánů, které naši kauzu odstartovaly.
+
+Moje jméno není zcela neznámé. Dlouhé roky se pohybuji v oblasti IT, komunikace, magazínech počítačových her. Se svým společníkem Karlem Roubalem podnikáme od roku 1993 a vybudovali jsme firmu, která mimo jiné léta úspěšně fungovala v médiích a vývoji webových projektů. Odkup menšinového podílu ve společnosti EOL provozující erotickou inzerci v roce 2017 nebyl žádný výstřelek šílenství (Pojďme přejít ke zločinu, když 28 let úspěšně a poctivě podnikáme) – předcházely mu dlouhé úvahy a také právní analýzy, které zcela jasně potvrdily, že se nejedná o kuplířství, ale o zcela legální prodej inzerce.
+
+Chci tím říct toto:
+nepodnikal jsem v sexuálních službách „odjakživa“.
+Do této oblasti jsem vstoupil až v listopadu 2017 a pouze jako technologický správce a inzertní platformy, nikoli jako kdokoli, kdo by se jakkoli podílel na prostituci. 
+
+Teď si možná někteří z vás řeknou: „Dobře mu tak, prodával prostitutky,“ nebo že se snažím bránit něco nemorálního.
+Ne. Nedělal jsem nic nelegálního. Nic, co by porušovalo zákony této země. Všechny výdělky byly legální, zdaněné a pocházely z prodeje reklamy – nikoliv z prostituce kohokoli.
+
+Proto považuji zásah NCOZ, který celou věc odstartoval, za bezprecedentní útok na podnikání, na presumpci neviny, na základní právní principy a na lidskou důstojnost.
+
+Níže vám vysvětlím, co jsme skutečně dělali, jak situaci popisuje zákon a proč se bráním. Nebudu nic skrývat ani zjemňovat.
+Řeknu vám svůj pohled
+
+
+
 
 ---
 
@@ -68,7 +99,7 @@ Ano. Na sex.cz inzerovali i lidé, kteří nabízeli erotické služby, včetně
 
 Ano. Platili pevnou měsíční částku za inzertní prostor.
 
-### 3) Inzerenti byli různí – prostitutky, masérky, azylové pokoje, kluby, sexshopy, prodejci porpůrných prostředků atd…
+### 3) Inzerenti byli různí – prostitutky, masérky, azylové pokoje, kluby, sexshopy, prodejci podpůrných prostředků atd…
 
 Ano. Sex.cz a přidružené stránky nebyly pouze „weby prostitutek“, ale erotický inzertní portál:
 
@@ -241,7 +272,7 @@ Hrubý zisk provozovatele webu = stále 4 000 Kč.
 Výtěžek z prostituce osoby C může činit řádově 200 000 Kč.
 Hrubý zisk provozovatele webu = stále 4 000 Kč.
 
-Z uvedeného je patrné, že zisk provozovatele webu **nemá přímou souvislost s výtěžkem z prostituce** inzerentů. Na rozdíl od typického pasáka zde neplatí, že „čím více prostitutka vydělá, tím více vydělám já“. Příjem je odvozen pouze od počtu zakoupených inzerátů, nikoli od objemu prostituční činnosti.
+Z uvedeného je patrné, že zisk provozovatele webu **nemá přímou souvislost s výtěžkem z prostituce** inzerentů. Na rozdíl od skutečného pasáka zde neplatí, že „čím více prostitutka vydělá, tím více vydělám já“. Příjem je odvozen pouze od počtu zakoupených inzerátů, nikoli od objemu prostituční činnosti.
 
 Nejde o ekonomické parazitování, ale o běžný obchodní vztah
 
@@ -449,15 +480,52 @@ Ano. Nikdy jsem to neskrýval a ani nebyl důvod to skrývat.
 
 Ne. Nikdy. Měli jsme pouze pevnou cenu za inzerci.
 
+### To ale přeci stačí, protože zákon jasně uvádí, že "... postačí opakované přijímání úplaty za to, že provozování prostituce umožňuje.", takze jste kuplíři a basta. Co vy na to?
+
+Tohle není úplně pravda, ne takto. 
+**Zaprvé**, tohle v zákoně nestojí. V zákoně, v bodě, který je mi kladen za vinu toto: "**kdo kořistí z prostituce provozované jiným**" Nic víc.
+**Zadruhé**, to co citujete je část judikátu. Judikát je rozhodnutí soudu v podobné věci a vámi zmíněná věta z takového rozhodnutí pochází, nicméně nesmíme zapomenout, že judikát je celý rozsudek a ne jedna vytržená věta. 
+**Zatřetí**, uplně všechny judikáty, kde se zmíněná veta nachází mají naprosto jinou skutkovou podstatu:
+- pachatel provozoval noční klub, hotel, bar či byt, v němž byla prostituce systematicky organizována, 
+- prostitutky tam pracovaly v jeho režii a pod kontrolou, 
+- pachatel přebíral část jejich výdělků (procenta, denní „výpalné“, neúměrně vysoké ceny ubytování apod.), 
+- v některých případech byl s prostitutkami výslovně dohodnut režim jejich práce a způsob dělení výnosů. 
+Společným jmenovatelem veškerých případů, kde byla tato věta použita je, že pachatel je ekonomickým „pánem“ nad provozem prostituce a **jeho příjem je přímo úměrný výnosům prostitutek** – čím více prostitutka vydělá, tím více vydělá i on. 
+V těchto skutkových situacích plně chápu závěr soudů, že **šlo o kořistění z prostituce provozované jiným**.
+Pokud by byla formulace „opakovaně bere peníze od prostitutky a ví, že jde o prostituci“ použita bez tohoto skutkového rámce, vedlo by to k nepřiměřenému rozšíření pojmu kořistění tak, že by zahrnul i řadu zcela běžných a legitimních vztahů:
+- gynekologa, který prostitutku léčí za běžný honorář, 
+- kadeřníka, který ji stříhá za obvyklou cenu, 
+- restauraci, která jí prodá jídlo, 
+- provozovatele posilovny, který jí prodá permanentku,
+- jakéhokoli poskytovatele reklamy nebo internetové inzerce. 
+U všech těchto subjektů platí, že opakovaně přijímají odměnu od osob provozujících prostituci a často mohou vědět, čím se jejich klienti živí. **Přesto je zřejmé, že nikoho nenapadne považovat je za „kořistitele z prostituce“**.
+
+### A co je teda podle vás kořistění?
+
+Na toto téma jsme si udělali samostatný rozbor který zde nalinkuju. Ale obecně je kořistění to, co kazdý tak nějak sám od sebe už od mala moc dobře ví a dá se to definovat například jako: 
+**Obohacovat se na cizí činnosti nebo situaci bez přiměřené protihodnoty, nebo spravedlivého nároku, často proti vůli či zájmu toho, z koho se těží.**
+V obecné teorii zločinu (např. Klaus von Lampe, Organized Crime, Routledge 2016) je „kořistění“ chápáno jako:
+**systematické získávání zisku z cizí činnosti nebo ekonomické aktivity bez legální účasti či protihodnoty.**
+Jeden z nejnovějších judikátu ústavního soudu sp. zn. II. ÚS 1543/24 vztahujících se ke kuplířství říká o kořistění toto:
+**„Podstatné je, že pachatel odčerpává celý výtěžek nebo jeho část z úplaty získávané osobou provozující prostituci za tuto činnost, tedy že z této činnosti vědomě těží.“**
+Ústavní soud tedy výslovně klade důraz na to, že pachatel odčerpává celý výtěžek nebo jeho část z úplaty za prostituci. Z toho vyplývá, že:
+- pro znak kořistění je rozhodující ekonomická vazba mezi **výnosem z prostituce** a **ziskem pachatele**, 
+- není postačující jakákoli platba od prostitutky, pokud nemá charakter **odčerpávání výtěžku** z její **prostituční činnosti**. 
+Jak jsem ukázal na příkladu tří inzerentek **A**, **B** a **C**, firemní příjem za inzerci:
+- zůstává stejný (např. 4 000 Kč), i když výtěžek z prostituce je 0 Kč (**osoba A**), 
+- zůstává stejný i tehdy, když výtěžek z prostituce je 40 000 Kč (**osoba B**) nebo 200 000 Kč (**osoba C**). 
+Není zde tedy **žádné odčerpávání výtěžku z úplaty za prostituci**. Zisk EOL.cz byl odvozen **výhradně od ceny inzertní služby**, nikoli **od** výše **výdělku z prostituce**. Ústavním soudem formulovaný test znaku kořistění proto pro můj případ neplatí.
+
+
 ### Je pravda, že jste měli velké tržby?
 
-Ano. Stejně jako každý velký portál s vysokou návštěvností, který prodává reklamu.
-Velké tržby jsou důsledkem velkého počtu inzerentů a dlouhé doby provozu, ne toho, že bychom někomu brali procenta z prostituce.
+Ano. Stejně jako každý velký portál s vysokou návštěvností, který prodává reklamu. Ale tržby nejsou zisk.
+Velké tržby jsou důsledkem velkého počtu inzerentů a dlouhé doby provozu, ne toho, že bychom někomu brali procenta z prostituce. Kromě velkých tržeb je ale třeba uvažovat i vysoké náklady spojené s provozem nesmírně komplexní a vysoce navštevované sítě webů. To už nikdo neuvádí ale přitom tyto náklady jsou součástí správně odevzdaného účetnictví firem spojených s tímto případem.
 
-### Je pravda, že bez sex.cz by prostituce nebyla?
+### Je pravda, že bez sex.cz by prostituce nebyla, nebo byla ve zmenšené míře?
 
-Ne. Prostitutky existovaly dávno před vznikem sex.cz i po jeho ukončení.
-Po zásahu policie se inzerenti přesunuli na jiné weby. V ČR dnes existují desítky portálů nabízejících erotickou inzerci.
+Ne. Prostitutky existovaly dávno před vznikem sex.cz i po jeho ukončení v naprosto nezmenšené míře. Po zásahu policie se inzerenti instantně přesunuli na jiné weby a sociální sítě. Nikde ve spisu není sebemenší důkaz, že by se po zavření sex.cz v jakékoli míře omezila prostituce. Ani jediný příklad. V ČR dnes existují desítky portálů nabízejících erotickou inzerci.
+Například portál amatéři.cz nabral do měsíce od zavření portálu sex.cz nekolik nových moderátorů aby zvládli moderovat přesun inzerce. a ti co nepřešli tam, řesli do anonnce a dalších.
 
 ### Mluvíte za všechny obviněné?
 
