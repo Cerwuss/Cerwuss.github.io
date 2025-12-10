@@ -13,7 +13,7 @@ Tento text jsem napsal protože o mém případu koluje mnoho domněnek a zjedno
 
 ## Obsah
 
-- [Úvod](uvod)
+- [Úvod](#uvod)
 - [Stručné shrnutí](#stručné-shrnutí)
 - [Co policie říká, že se dělo – a co z toho je pravda](#co-policie-říká-že-se-dělo--a-co-z-toho-je-pravda)
 - [Co se ve skutečnosti dělo](#co-se-ve-skutčnosti-dělo)
@@ -33,6 +33,8 @@ Tento text jsem napsal protože o mém případu koluje mnoho domněnek a zjedno
 Jmenuji se Jakub Červinka a rád bych vám na této stránce popsal svůj příběh – příběh, který mě postavil do situace, o níž by mě v životě nenapadlo, že ji vůbec zažiju. Chci vám vyprávět o podnikání, které bylo v České republice běžné více než dvě desetiletí, a které přesto skončilo bezprecenetním trestním stíháním, zvůlí státní moci a likvidačním tlakem systému, jenž se rozhodl udělat z bývalých kolegů a zaměstnanců „organizovanou zločineckou skupinu“.
 
 Policie a státní zastupitelství ze mě udělaly zločince – člověka, kterým jsem nikdy nebyl a nejsem. O tom jsem přesvědčen nejen lidsky, ale také na základě českých i evropských zákonů. Přesto nám byly obstaveny majetky jasně a prokazatelně nesouvisející s čímkoli trestním, přesto jsme byli veřejně i v úředních dokumentech jasně mnohokrát označeni za kuplíře, čímž bylo ignorováno naše ústavní právo na presumci nevinny, a přesto se státní orgány pokoušejí naši profesní i lidskou pověst zcela zničit.
+
+Zároveň si velmi dobře uvědomuji jednu věc: v jádru téhle kauzy nejde o mě. Těžiště obvinění míří na hlavního společníka Andreje Anastasova. Nechci hodnotit jeho vinu ani skutky, ale z konstrukce obžaloby je zřejmé, že my ostatní jsme v ní do značné míry proto, aby bylo možné celou věc označit za činnost „organizované skupiny“ a použít přísnější právní kvalifikaci. Jsem přesvědčený, že jsem se do toho „balíku“ dostal především kvůli tomu, že jsem byl menšinovým společníkem a technickým dodavatelem, nikoli kvůli vlastní trestné činnosti, kterou jsem nespáchal.
 
 O mé kauze se v médiích většinou mlčí. A když už se nějaká zpráva objeví, je to obvykle jednostranný opis policejního textu bez minimální snahy o objektivitu. Tady bych vypíchnul jedinou výjimku, kterou je Jakub Zelenka. Jakkoli s ním mohu v něčem nesouhlasit, tak je to jediný autor textu v této kauze, kterého vůbec napadlo zeptat se i druhé strany. Jediný skutečný novinář. Nebudu hodnotit, co jsou ostatní, ale novináři určitě ne. A protože většina lidí má přirozený sklon věřit, že „přece by stát nikdo nikoho jen tak neobvinil, kdyby se nic nestalo“, vzniká čtením jednostranných a neobjektivních kopií policejních tiskovek dojem, že „na tom něco určitě bude“. Joseph Goebbels a Jaroslav Ibehej mohou mít radost.
 Nevyčítám to nikomu, také jsem tak dřív přemýšlel.
