@@ -13,7 +13,7 @@ Tento text jsem napsal protože o mém případu koluje mnoho domněnek a zjedno
 
 ## Obsah
 
-- [Úvod](#uvod)
+- [Úvod](#úvod)
 - [Stručné shrnutí](#stručné-shrnutí)
 - [Co policie říká, že se dělo – a co z toho je pravda](#co-policie-říká-že-se-dělo--a-co-z-toho-je-pravda)
 - [Co se ve skutečnosti dělo](#co-se-ve-skutčnosti-dělo)
@@ -30,16 +30,15 @@ Tento text jsem napsal protože o mém případu koluje mnoho domněnek a zjedno
 
 ## Úvod
 
-Jmenuji se Jakub Červinka a rád bych vám na této stránce popsal svůj příběh – příběh, který mě postavil do situace, o níž by mě v životě nenapadlo, že ji vůbec zažiju. Chci vám vyprávět o podnikání, které bylo v České republice běžné více než dvě desetiletí, a které přesto skončilo bezprecenetním trestním stíháním, zvůlí státní moci a likvidačním tlakem systému, jenž se rozhodl udělat z bývalých kolegů a zaměstnanců „organizovanou zločineckou skupinu“.
+Jmenuji se Jakub Červinka a rád bych vám na této stránce popsal svůj příběh – příběh, který mě postavil do situace, o níž by mě v životě nenapadlo, že ji vůbec zažiju. Chci vám vyprávět o podnikání, které bylo v České republice běžné více než dvě desetiletí, a které přesto skončilo bezprecedetním trestním stíháním, zvůlí státní moci a likvidačním tlakem systému, jenž se rozhodl udělat z bývalých kolegů a zaměstnanců „organizovanou zločineckou skupinu“.
 
 Policie a státní zastupitelství ze mě udělaly zločince – člověka, kterým jsem nikdy nebyl a nejsem. O tom jsem přesvědčen nejen lidsky, ale také na základě českých i evropských zákonů. Přesto nám byly obstaveny majetky jasně a prokazatelně nesouvisející s čímkoli trestním, přesto jsme byli veřejně i v úředních dokumentech jasně mnohokrát označeni za kuplíře, čímž bylo ignorováno naše ústavní právo na presumci nevinny, a přesto se státní orgány pokoušejí naši profesní i lidskou pověst zcela zničit.
 
 Zároveň si velmi dobře uvědomuji jednu věc: v jádru téhle kauzy nejde o mě. Těžiště obvinění míří na hlavního společníka Andreje Anastasova. Nechci hodnotit jeho vinu ani skutky, ale z konstrukce obžaloby je zřejmé, že my ostatní jsme v ní do značné míry proto, aby bylo možné celou věc označit za činnost „organizované skupiny“ a použít přísnější právní kvalifikaci. Jsem přesvědčený, že jsem se do toho „balíku“ dostal především kvůli tomu, že jsem byl menšinovým společníkem a technickým dodavatelem, nikoli kvůli vlastní trestné činnosti, kterou jsem nespáchal.
 
-O mé kauze se v médiích většinou mlčí. A když už se nějaká zpráva objeví, je to obvykle jednostranný opis policejního textu bez minimální snahy o objektivitu. Tady bych vypíchnul jedinou výjimku, kterou je Jakub Zelenka. Jakkoli s ním mohu v něčem nesouhlasit, tak je to jediný autor textu v této kauze, kterého vůbec napadlo zeptat se i druhé strany. Jediný skutečný novinář. Nebudu hodnotit, co jsou ostatní, ale novináři určitě ne. A protože většina lidí má přirozený sklon věřit, že „přece by stát nikdo nikoho jen tak neobvinil, kdyby se nic nestalo“, vzniká čtením jednostranných a neobjektivních kopií policejních tiskovek dojem, že „na tom něco určitě bude“. Joseph Goebbels a Jaroslav Ibehej mohou mít radost.
-Nevyčítám to nikomu, také jsem tak dřív přemýšlel.
+O mé kauze se v médiích většinou mlčí. A když už se nějaká zpráva objeví, je to obvykle jednostranný opis policejního textu bez minimální snahy o objektivitu. Tady bych vypíchnul jedinou výjimku, kterou je Jakub Zelenka. Jakkoli s ním mohu v něčem nesouhlasit, tak je to jediný autor textu v této kauze, kterého vůbec napadlo zeptat se i druhé strany. Jediný skutečný novinář. Nebudu hodnotit, co jsou ostatní, ale novináři určitě ne. A protože většina lidí má přirozený sklon věřit, že „přece by stát nikdo nikoho jen tak neobvinil, kdyby se nic nestalo“, vzniká čtením jednostranných a neobjektivních kopií policejních tiskovek dojem, že „na tom něco určitě bude“. Nevyčítám to nikomu, také jsem tak dřív přemýšlel. Navíc, když si lidé přečtou o všech těch milionech, drogách a dalších věcech, tak je to přece jasné. Kdo by řešil detaily jako, že tady se budovala 23 nějaká firma, která řádně platila daně a dala do toho podnikání statísíce hodin práce, nebo, že všechny ty excesy a peníze poukazují jen na jednu osobu. To jsou detaily, co nikoho nezajímají, čtou se jen titulky. Jak říkám, nikomu to nevyčítám, jen je mi z toho trochu smutno a úzko. Moc rád bych to pojmenoval jinym slovem než propaganda, ale jak jinak pojmenovat čiste jednostranné opakování policejních zpráv, kde není dán žádný prostor druhé straně?
 
-Chci vám zde nabídnout ucelený pohled na kauzu portálu Sex.cz. Nejen lidský příběh, ale také jasné vysvětlení toho, co jsme skutečně dělali, co říká zákon a proč jsem přesvědčen, že jsme se ničeho trestného nedopustili. A pokud někde skutečně došlo k bezprecedentnímu selhání, pak to nebylo na straně mojí ani mých kolegů, ale na straně státních orgánů, které naši kauzu odstartovaly.
+Nejsem tu ale proto, abych se litoval. Chci vám zde nabídnout ucelený pohled na kauzu portálu Sex.cz. Nejen lidský příběh, ale také jasné vysvětlení toho, co jsme skutečně dělali, co říká zákon a proč jsem přesvědčen, že jsme se ničeho trestného nedopustili. A pokud někde skutečně došlo k bezprecedentnímu selhání, pak to nebylo na straně mojí ani mých kolegů, ale na straně státních orgánů, které naši kauzu odstartovaly.
 
 Moje jméno není zcela neznámé. Dlouhé roky se pohybuji v oblasti IT, komunikace, magazínech počítačových her. Se svým společníkem Karlem Roubalem podnikáme od roku 1993 a vybudovali jsme firmu, která mimo jiné léta úspěšně fungovala v médiích a vývoji webových projektů. Odkup menšinového podílu ve společnosti EOL provozující erotickou inzerci v roce 2017 nebyl žádný výstřelek šílenství (Pojďme přejít ke zločinu, když 28 let úspěšně a poctivě podnikáme) – předcházely mu dlouhé úvahy a také právní analýzy, které zcela jasně potvrdily, že se nejedná o kuplířství, ale o zcela legální prodej inzerce.
 
@@ -122,7 +121,7 @@ S čím nesouhlasím, je závěr, který z toho státní zástupce dělá:
 
 > že když někdo opakovaně bere peníze od osoby provozující prostituci, pak z její prostituce automaticky „kořistí“.
 
-### 5) Policie tvrdí, že jsme „kontrolovali inzeráty“ protože jsame mluvili do jejich obsahu
+### 5) Policie tvrdí, že jsme „kontrolovali inzeráty“ protože jsme mluvili do jejich obsahu
 
 Ano, je pravda, že jsme inzeráty kontrolovali.  
 Ale je potřeba jasně říct **co** jsme kontrolovali a hlavně **proč**.
@@ -401,7 +400,7 @@ Stejně absurdní je dělat kuplíře z provozovatele inzertního portálu, kter
 
 Rád bych zde zařadil jednu důležitou, byť trochu odbornější část.  
 Je zásadní proto, že vysvětluje, proč si myslím, že samotné zahájení trestního stíhání v této věci bylo chybou.
-Můj osobní názor je, že se v našem případě nejedná o tresný čin, ale i v případě, že někdo dojde k jinému závěru platí.
+Můj osobní názor je, že se v našem případě nejedná o trestný čin, ale i v případě, že někdo dojde k jinému závěru platí.
 
 ### Trestní právo má být až poslední možnost (tzv. *ultima ratio*)
 
@@ -524,10 +523,18 @@ Není zde tedy **žádné odčerpávání výtěžku z úplaty za prostituci**. 
 Ano. Stejně jako každý velký portál s vysokou návštěvností, který prodává reklamu. Ale tržby nejsou zisk.
 Velké tržby jsou důsledkem velkého počtu inzerentů a dlouhé doby provozu, ne toho, že bychom někomu brali procenta z prostituce. Kromě velkých tržeb je ale třeba uvažovat i vysoké náklady spojené s provozem nesmírně komplexní a vysoce navštevované sítě webů. To už nikdo neuvádí ale přitom tyto náklady jsou součástí správně odevzdaného účetnictví firem spojených s tímto případem.
 
+
+### Co vlastně znamená „umožňuje provozování prostituce“?
+
+V zákoně je napsáno, že kuplířem je ten, kdo „kořistí z prostituce provozované jiným“. Některé starší rozsudky tuto větu vysvětlují tak, že někdy může stačit i to, že pachatel přijímá peníze za to, že prostitutce „umožňuje“ její činnost. To ale neznamená, že kuplířem je každý, kdo od prostitutky něco přijme. Soudy jasně opakují, že „umožňováním“ se myslí jen situace, kdy někdo poskytuje **konkrétní zázemí přímo pro prostituci** – například byt upravený na privát, pokoj v klubu nebo místo, kde se prostituce reálně odehrává – a zároveň z této činnosti **odčerpává výdělek** (procenta, nájem podle počtu klientů, výpalné apod.). Bez takové osoby by daná prostituce nemohla probíhat. To je klasický pasácký vztah.
+Provoz inzertní platformy je něco úplně jiného. My neposkytujeme prostor pro prostituci, nijak neorganizujeme její průběh, neurčujeme ceny, nerozdělujeme výdělky a nemáme z prostituce žádnou „provizi“. Inzerent může kdykoli odejít na jiný web nebo fungovat úplně jinak – naše služba není nezbytnou podmínkou jeho práce. A hlavní rozdíl je ekonomický: naše odměna je **pevná cena za reklamu**, ne podíl na tom, kolik kdo vydělá prostitucí. Právě tento rozdíl soudy považují za rozhodující.
+Kdyby zákon skutečně myslel to, že „umožňuje prostituci“ každý, kdo od prostitutky něco přijme, pak by kuplíři byli i lékaři, kadeřnice, banky, taxislužby nebo kdokoli, kdo jim poskytuje normální službu. Soudy samy upozorňují, že takový výklad je nesmyslný a v rozporu s účelem zákona. Proto tvrdím, že běžná inzerce není a nemůže být považována za „umožnění prostituce“ v trestním smyslu.
+
+
 ### Je pravda, že bez sex.cz by prostituce nebyla, nebo byla ve zmenšené míře?
 
-Ne. Prostitutky existovaly dávno před vznikem sex.cz i po jeho ukončení v naprosto nezmenšené míře. Po zásahu policie se inzerenti instantně přesunuli na jiné weby a sociální sítě. Nikde ve spisu není sebemenší důkaz, že by se po zavření sex.cz v jakékoli míře omezila prostituce. Ani jediný příklad. V ČR dnes existují desítky portálů nabízejících erotickou inzerci.
-Například portál amatéři.cz nabral do měsíce od zavření portálu sex.cz nekolik nových moderátorů aby zvládli moderovat přesun inzerce. a ti co nepřešli tam, přesli do Anonnce a dalších.
+Ne, ani náhodou. A dá se to lehce dokázat. Prostitutky existovaly dávno před vznikem sex.cz i po jeho ukončení v naprosto nezmenšené míře. Po zásahu policie se inzerenti instantně přesunuli na jiné weby a sociální sítě. Nikde ve spisu není sebemenší důkaz, že by se po zavření sex.cz v jakékoli míře omezila prostituce. Ani jediný příklad. V ČR dnes existují desítky portálů nabízejících erotickou inzerci.
+Například portál amatéři.cz nabral do měsíce od zavření portálu sex.cz několik nových moderátorů aby zvládli moderovat přesun inzerce. a ti co nepřešli tam, přesli do Anonnce a dalších.
 
 ### Mluvíte za všechny obviněné?
 
@@ -544,6 +551,8 @@ Jsem přesvědčený, že:
 - šlo o standardní, právně prověřené podnikání,
 - erotická inzerce byla v ČR běžná tři desetiletí,
 - a kriminalizovat ji nyní znamená trestně postihovat něco, co dlouhodobě fungovalo jako normální součást mediálního trhu.
+
+Když se člověk zamyslí nad tím, co jste si zde přečetli, dojde k jednoduchému závěru: veškerá naše činnost v rámci firmy EOL měla jediný skutečný cíl – aby byl náš produkt, tedy inzertní portál, co nejlepší. Všechno směřovalo k tomu, aby měl web vysokou návštěvnost, aby fungoval technicky, aby vypadal moderně, aby byl přehledný na mobilu i desktopu a aby měli jistotu, že inzeráty nejsou falešné. Kontroly fotek, redesigny, technický vývoj, marketing, práce grafiků, programátorů a administrátorů – to všechno sloužilo jedinému účelu: udělat kvalitní inzertní službu, kterou si inzerenti vyberou dobrovolně a zaplatí za ni běžnou cenu jako za jakoukoli jinou reklamu. To je princip otevřeného trhu a soutěže mezi inzertními portály. A právě to je obrovský rozdíl oproti kuplířství: my jsme nevytvářeli moc ani kontrolu nad prostitucí, nikoho jsme neorganizovali, neřídili ani nevyužívali. Jen jsme dělali profesionální web, který měl být lepší než konkurence – nic víc a nic míň.
 
 Tento text jsem napsal proto, aby kdokoli, kdo se o věc zajímá, měl možnost vidět celý obraz, ne jen zkratkovité formulace z trestního spisu.
 
