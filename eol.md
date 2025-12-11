@@ -322,6 +322,28 @@ Inzerce je běžný náklad podnikání, ne trestná činnost.
 
 Před vstupem do firmy jsme si nechali udělat právní analýzy, které dospěly k závěru, že tento model není kuplířství.
 
+### 6) Jaký je rozdíl mezi kořistěním a běžným podnikáním (příklad)
+Rozdíl se dá hezky ukázat na jednoduchém příkladu.
+
+Představme si výrobce speciálního ochranného prostředku (třeba pesaru), který je z technických důvodů zvlášť vhodný pro osoby provozující prostituci - lépe dezinfikuje, snižuje riziko infekcí, je snadno vyměnitelný atd. Z těchto důvodů by si jeho produkt ve velké míře kupovaly právě prostitutky, mnohem častěji než jiné skupiny uživatelů.
+
+Ten výrobce by svůj produkt prodával:
+- za férovou tržní cenu,
+- stejnou pro všechny odběratele,
+- bez procent z prostitučního výdělku a bez zvláštních „odvodů“ jen proto, že kupující je prostitutka.
+V takové situaci je zřejmé, že tento výrobce nekořistí z prostituce jiného, ale **žije z hodnoty vlastního produktu**. Soustředí se na to, aby jeho výrobek byl co nejlepší, bezpečný a konkurenceschopný - a to, že si ho z logických důvodů ve velké míře kupují právě prostitutky, z něj samo o sobě nedělá „pasáka“. Jinými slovy: je bohatý proto, že vyrábí dobrý produkt a prodává ho za obvyklou, nebo lepší cenu, ne proto, že si přisvojil část jejich prostitučního výdělku.
+
+To ostře kontrastuje se situací, kdy podnikatel nijak zásadně nevylepšuje svůj produkt či službu, ale veškerou energii soustředí na to, aby:
+- bylo co nejvíce prostituce,
+- prostitutky měly co nejvíce klientů a co největší zisky,
+- a z každého takového aktu „odkapla“ částka pro něj (procenta z tržeb, „režijní“ poplatky navázané na počet klientů apod.).
+V takovém případě už nejde o firmu, která žije z vlastního produktu, ale o podnik, který **žije z prostituce jiných** - tedy o model typický pro to, čemu zákon a úmluva OSN říkají „kořistění z prostituce jiného“.
+
+Shrnutí:
+V prvním případě se podnikatel soustředí na svůj produkt/službu, aby byla co nejlepší, a **zákazníci si ji vybírají proto, že jim dává hodnotu**.
+Ve druhém případě je **produkt/služba** v jádru nepodstatná - **je** to **jen záminka**, jak si přisvojit co největší část z prostitučního výdělku jiných, aby to „na oko“ vypadalo jako normální podnikání.
+
+
 ---
 
 ## Moje role ve firmě
