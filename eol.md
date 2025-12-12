@@ -182,7 +182,7 @@ Náš cíl byl jednoduchý:
 - jaká je cena služeb,  
 - jaký má kdo výdělek.
 
-To jsme ani nemohli vědět, ani to nebylo naší rolí.
+To jsme ani nemohli vědět, ani to nebylo naší rolí, tou bylo prouze nabídka kvalitní inzertní platformy.
 
 ---
 
