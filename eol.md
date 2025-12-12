@@ -558,9 +558,45 @@ Kdyby zákon skutečně myslel to, že „umožňuje prostituci“ každý, kdo 
 Ne, ani náhodou. A dá se to lehce dokázat. Prostitutky existovaly dávno před vznikem sex.cz i po jeho ukončení v naprosto nezmenšené míře. Po zásahu policie se inzerenti instantně přesunuli na jiné weby a sociální sítě. Nikde ve spisu není sebemenší důkaz, že by se po zavření sex.cz v jakékoli míře omezila prostituce. Ani jediný příklad. V ČR dnes existují desítky portálů nabízejících erotickou inzerci.
 Například portál amatéři.cz nabral do měsíce od zavření portálu sex.cz několik nových moderátorů aby zvládli moderovat přesun inzerce. a ti co nepřešli tam, přesli do Anonnce a dalších.
 
+### Co to znamená, že jste v organizované zločinecké skupině?
+Organizovaná zločinecká skupina není totéž co „organizovaná firma“. Zákon tím myslí minimálně tři lidi, kteří mají mezi sebou rozdělené role, mají vnitřní strukturu a jejich společným cílem je páchat trestné činy.
+
+Abych mohl být členem takové skupiny, nestačí, že mám ve firmě nějakou roli a že firma má hierarchii. Muselo by se prokázat, že jsem věděl, že:
+- tahle struktura existuje **právě jako nástroj trestné činnosti**,
+- a že se moje práce neodehrává v rámci legálního podnikání, ale **v rámci „zločinecké organizace“**.
+V mém případě jsem dělal to, co dělám třicet let - IT, provoz webů, grafiku, koordinaci vývoje. Měli jsme právní analýzy, stát s námi roky běžně komunikoval, policie nás kontaktovala v jiných kauzách a nikdy neřekla, že je samotný model inzerce trestný. Erotická inzerce běžela v Česku od 90. let v novinách, časopisech, na jiných webech.
+
+Pokud dnes někdo zpětně tvrdí, že naše firma byla „organizovaná zločinecká skupina“, **pak by měl také vysvětlit**, kdy a jak jsem se měl dozvědět, že:
+- prodávání reklamy = trestný čin,
+- běžný IT provoz inzertního webu = účast na zločinecké skupině.
+Z mého pohledu jsem měl všechny racionální důvody věřit, že se podílím na legální činnosti (prodej inzerce), nikoliv na „firmě na zločin“. To je zásadní rozdíl, který trestní právo nemůže ignorovat. (Tedy dřív jsem tomu věřil.)
+
+Jak to vypadá, když se z organizované činnosti udělá „organizovaná zločinecká skupina“
+Aby bylo jasné, proč mi ta nálepka „organizovaná zločinecká skupina“ přijde absurdní, zkuste si představit následující:
+
+Každý rok chodíte s partou kamarádů na Velikonoce na koledu. Máte v tom určitou „organizaci“:
+- domluvíte si trasu,
+- rozdělíte si, kdo ponese košík, kdo bude zvonit, kdo bude recitovat,
+- někteří mají pomlázky, jiní řeční roli,
+na konci dne si rozdělíte vajíčka, čokoládu a panáky, které jste dostali od návštěv.
+Z pohledu zdravého rozumu je to prostě folklor a tradice. Jste organizovaná parta, ale cílem není nic trestného, jen společná akce.
+
+Teď si představte, že by někdo po letech přišel a napsal:
+„Skupina nejméně tří osob, s vnitřní strukturou a dělbou rolí, která opakovaně po dobu mnoha let chodí po domácnostech,
+vynucují si pomocí nástrojů, určených přímo k ubližování a působení bolestivých poranění, vstup do cizích bytů, některým osobám poranění "pomlázkou" udělají,
+a za to inkasují naturální plnění (alkohol, jídlo, peníze)…“
+a prohlásil vás za organizovanou zločineckou skupinu zaměřenou na loupeže a vydírání, protože „chodíte v partě, máte pomůcky a získáváte majetkový prospěch“.
+
+Všichni tušíme, že by to byl výklad úplně mimo realitu. Ano, je to organizované, ano, je tam nějaké „plnění“, ale:
+- nikdo z účastníků nevstupuje do skupiny s tím, že jde páchat zločiny,
+- věří, že jde o běžnou a společensky tolerovanou činnost (tradici),
+- žádný rozumný člověk by to nenazval „zločineckou organizací“.
+Stejně absurdní mi připadá, když se po letech běžného podnikání v oblasti inzerce, se všemi právními analýzami, komunikací se státem a daněmi, najednou z normální firmy stane „organizovaná zločinecká skupina“ jen proto, že měla strukturu a více lidí v různých rolích. Organizace sama o sobě ještě z nikoho mafiána nedělá - rozhodující je, jaký byl skutečný cíl té činnosti a co si o ní její účastníci důvodně mysleli.
+
+
 ### Mluvíte za všechny obviněné?
 
-Ne. Toto je moje osobní vyjádření za mě jako fyzickou osobu.
+Ne. Toto je moje osobní vyjádření za mě jako fyzickou osobu. Nicméně většina spoluobviněných je na tom, pokud vím, stejně. Výjimkou je Andrej, kterého tu, co se týká ostatních obvinění, nijak nekomentuji, protože o tom vím pramálo a jestě jedna osoba, která podle mne neměla se skutečným provozem webu vůbec nic společného.
 
 ---
 
