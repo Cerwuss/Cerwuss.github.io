@@ -255,7 +255,7 @@ Jde o standardní vztah mezi poskytovatelem reklamního/inzertního prostoru a i
 
 **Existuje reálná a přiměřená protihodnota**
 
-Webové stránky měly návštěvnost cca 150–200 tisíc unikátních uživatelů denně. Cena za měsíční prezentaci (řádově několik tisíc korun) tak odpovídala či dokonce byla pod obvyklou cenou za reklamu na obdobně navštěvovaných webech.
+Webové stránky měly návštěvnost cca **150–200 tisíc** unikátních uživatelů **denně**. Cena za měsíční prezentaci (řádově několik tisíc korun) tak **odpovídala** či dokonce **byla pod obvyklou cenou** za reklamu na obdobně navštěvovaných webech.
 Inzerent tedy platil za to, že jeho inzerát uvidí velké množství návštěvníků – to je přesně povaha reklamní služby.
 Výše příjmu je nezávislá na výtěžku z prostituce
 
