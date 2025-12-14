@@ -38,7 +38,7 @@ Zároveň si velmi dobře uvědomuji jednu věc: v jádru téhle kauzy nejde o m
 
 O mé kauze se v médiích většinou mlčí. A když už se nějaká zpráva objeví, je to obvykle jednostranný opis policejního textu bez minimální snahy o objektivitu. Tady bych vypíchnul jedinou výjimku, kterou je Jakub Zelenka. Jakkoli s ním mohu v něčem nesouhlasit, tak je to jediný autor textu v této kauze, kterého vůbec napadlo zeptat se i druhé strany. Jediný skutečný novinář. Nebudu hodnotit, co jsou ostatní, ale novináři určitě ne. A protože většina lidí má přirozený sklon věřit, že „přece by stát nikoho jen tak neobvinil, kdyby se nic nestalo“, vzniká čtením jednostranných a neobjektivních kopií policejních tiskovek dojem, že „na tom něco určitě bude“. Nevyčítám to nikomu, také jsem tak dřív přemýšlel. Navíc, když si lidé přečtou o všech těch milionech, drogách a dalších věcech, tak je to přece jasné. Kdo by řešil detaily jako, že tady se budovala 23 let nějaká firma, která řádně platila daně a dala do toho podnikání statísíce hodin práce, nebo, že všechny ty excesy a peníze poukazují jen na jednu osobu. To jsou detaily, co nikoho nezajímají, čtou se jen titulky. Jak říkám, nikomu to nevyčítám, jen je mi z toho trochu smutno a úzko. Moc rád bych to pojmenoval jinym slovem než propaganda, ale jak jinak pojmenovat čiste jednostranné opakování policejních zpráv, kde není dán žádný prostor druhé straně?
 
-Nejsem tu ale proto, abych se litoval. Chci vám zde nabídnout ucelený pohled na kauzu portálu Sex.cz. Nejen lidský příběh, ale také jasné vysvětlení toho, co jsme skutečně dělali, co říká zákon a proč jsem přesvědčen, že jsme se ničeho trestného nedopustili. A pokud někde skutečně došlo k bezprecedentnímu selhání, pak to nebylo na straně mojí ani mých kolegů, ale na straně státních orgánů, které naši kauzu odstartovaly.
+To ale nechme stranou. Chci vám zde nabídnout ucelený pohled na kauzu portálu Sex.cz. Nejen lidský příběh, ale také jasné vysvětlení toho, co jsme skutečně dělali, co říká zákon a proč jsem přesvědčen, že jsme se ničeho trestného nedopustili. A pokud někde skutečně došlo k bezprecedentnímu selhání, pak to nebylo na straně mojí ani mých kolegů, ale na straně státních orgánů, které naši kauzu odstartovaly.
 
 Moje jméno není zcela neznámé. Dlouhé roky se pohybuji v oblasti IT, komunikace, magazínech počítačových her. Se svým společníkem Karlem Roubalem podnikáme od roku 1993 a vybudovali jsme firmu, která mimo jiné léta úspěšně fungovala v médiích a vývoji webových projektů. Odkup menšinového podílu ve společnosti EOL provozující erotickou inzerci v roce 2017 nebyl žádný výstřelek šílenství (Pojďme přejít ke zločinu, když 28 let úspěšně a poctivě podnikáme) – předcházely mu dlouhé úvahy a také právní analýzy, které zcela jasně potvrdily, že se nejedná o kuplířství, ale o zcela legální prodej inzerce.
 
@@ -292,6 +292,7 @@ Od roku 1989:
 - Annonce a další inzertní noviny,
 - různé seznamky a erotické rubriky,
 - internetové portály jako Amatéři, Seznamka69 a mnoho dalších.
+- stát dělá to samé, například ještě v roce 2023 jezdila po Praze tramvaj polepená reklamou na klub GOLDFINGERS - Dopravní podnik patří tuším státu. (Tento klub na sex.cz inzeroval také)
 
 Všude funguje princip:
 
