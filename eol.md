@@ -1,16 +1,15 @@
 # Jakub Červinka: Moje osobní vyjádření k případu „sex.cz“
 
 Poslední aktualizace: *info 15.12.2025 - Dnes jsem dostal do rukou obžalobu - Má 430 stran. 
-to znamená, že všechny na této stránce napsané veci už nemusí být nutně aktuální*
+to znamená, že všechny na této stránce napsané veci už nemusí být nutně aktuální. Předpokládaný odhad je, že se toto projeví na těchto stránkách do týdne.*
 
 Tento text jsem napsal protože o mém případu koluje mnoho domněnek a zjednodušení. 
 
 ## Důležité upozornění
 Byl jsem upozorněn, že jsem nezdůraznil něco, co mi přišlo samozřejmé tak to řeknu v kostce hned na začátku.
 
-**Jediné**, co je mi kladeno za vinu, se týká provozování portálu sex.cz. Což obvodní státní zástupkyně klasifikuje jako kuplířství a protože jsme to dělaji ve více lidech, tak v organizované zločinecké skupině.
-S **ničím dalším**, co jste o kauze četli nebo slyšeli nemám naprosto nic společného a to ani podle orgánů činných v trestním řízení. Ani jsem o těchto věcech sám nevěděl, dokud jsem se to nedozvěděl ze spisu.
-
+**Jediné**, co je mi kladeno za vinu, se týká provozování portálu sex.cz. To obvodní státní zástupkyně klasifikuje jako kuplířství (jen alinea 2), a protože jsme to dělaji ve více lidech, tak navíc v organizované zločinecké skupině. (ale stále jde jen o kuplířství alinea 2)
+S **ničím dalším**, co jste o kauze četli nebo slyšeli (drogy, zneužívání atd.) **nemám naprosto nic společného** a to ani podle orgánů činných v trestním řízení. Ani jsem o těchto věcech sám nevěděl, dokud jsem se je nedozvěděl ze spisu. K těmto skutečnostem nemám co více říci.
 
 Chci na jednom místě jasně a srozumitelně popsat:
 
