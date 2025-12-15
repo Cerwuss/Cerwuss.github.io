@@ -1,7 +1,7 @@
 # Jakub Červinka: Moje osobní vyjádření k případu „sex.cz“
 
-Poslední aktualizace: *info 15.12.2025 - Dnes jsem dostal do rukou obžalobu - Má 430 stran. 
-to znamená, že všechny na této stránce napsané veci už nemusí být nutně aktuální. Projdu vše a opravím po načtení obžaloby. Předpokládaný odhad je, že se toto projeví na těchto stránkách po Vánocích.*
+Poslední aktualizace: *info 15.12.2025 - Dnes jsem dostal do rukou obžalobu. - Má 430 stran. 
+to znamená, že všechny na této stránce napsané věci už nemusí být nutně aktuální. Projdu vše a opravím po načtení obžaloby. Předpokládaný odhad je, že se toto projeví na těchto stránkách po Vánocích.*
 
 Tento text jsem napsal protože o mém případu koluje mnoho domněnek a zjednodušení. 
 
