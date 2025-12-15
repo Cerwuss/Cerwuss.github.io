@@ -1,8 +1,18 @@
 # Jakub Červinka: Moje osobní vyjádření k případu „sex.cz“
 
-Poslední aktualizace: *doplním*
+Poslední aktualizace: *info 15.12.2025 - Dnes jsem dostal do rukou obžalobu - Má 430 stran. 
+to znamená, že všechny na této stránce napsané veci už nemusí být nutně aktuální*
 
-Tento text jsem napsal protože o mém případu koluje mnoho domněnek a zjednodušení. Chci na jednom místě jasně a srozumitelně popsat:
+Tento text jsem napsal protože o mém případu koluje mnoho domněnek a zjednodušení. 
+
+## Důležité upozornění
+Byl jsem upozorněn, že jsem nezdůraznil něco, co mi přišlo samozřejmé tak to řeknu v kostce hned na začátku.
+
+**Jediné**, co je mi kladeno za vinu, se týká provozování portálu sex.cz. Což obvodní státní zástupkyně klasifikuje jako kuplířství a protože jsme to dělaji ve více lidech, tak v organizované zločinecké skupině.
+S **ničím dalším**, co jste o kauze četli nebo slyšeli nemám naprosto nic společného a to ani podle orgánů činných v trestním řízení. Ani jsem o těchto věcech sám nevěděl, dokud jsem se to nedozvěděl ze spisu.
+
+
+Chci na jednom místě jasně a srozumitelně popsat:
 
 - co se podle policie mělo stát,
 - co se ve skutečnosti dělo,
@@ -30,17 +40,17 @@ Tento text jsem napsal protože o mém případu koluje mnoho domněnek a zjedno
 
 ## Úvod
 
-Jmenuji se Jakub Červinka a rád bych vám na této stránce popsal svůj příběh – příběh, který mě postavil do situace, o níž by mě v životě nenapadlo, že ji vůbec zažiju. Chci vám vyprávět o podnikání, které bylo v České republice běžné více než dvě desetiletí, a které přesto skončilo bezprecedetním trestním stíháním, zvůlí státní moci a likvidačním tlakem systému, jenž se rozhodl udělat z bývalých kolegů a zaměstnanců „organizovanou zločineckou skupinu“.
+Jmenuji se Jakub Červinka a rád bych vám na této stránce popsal svůj příběh – příběh, který mě postavil do situace, o níž by mě v životě nenapadlo, že ji vůbec zažiju. Chci vám vyprávět o podnikání, které bylo v České republice běžné více než dvě desetiletí, a které přesto skončilo bezprecedetním trestním stíháním. 
 
-Policie a státní zastupitelství ze mě udělaly zločince – člověka, kterým jsem nikdy nebyl a nejsem. O tom jsem přesvědčen nejen lidsky, ale také na základě českých i evropských zákonů. Přesto nám byly obstaveny majetky jasně a prokazatelně nesouvisející s čímkoli trestním, přesto jsme byli veřejně i v úředních dokumentech jasně mnohokrát označeni za kuplíře, čímž bylo ignorováno naše ústavní právo na presumci nevinny, a přesto se státní orgány pokoušejí naši profesní i lidskou pověst zcela zničit.
+Nebudu vám zde tvrdit, že jsem nevinný, ne proto, že bych si myslel něco jiného, nebo že bych nechtěl, ale proto, že to říká naprosto každý a ti, co jsou vinní, asi nejvíc. Místo toho bych chtel pokud možno, co nejsouvisleji popsat celou situaci. Uvést co nejvíce faktů a doložitelných skutečností, aby jste si udělali názor sami.
 
-Zároveň si velmi dobře uvědomuji jednu věc: v jádru téhle kauzy nejde o mě. Těžiště obvinění míří na hlavního společníka Andreje Anastasova. Nechci hodnotit jeho vinu ani skutky, ale z konstrukce obžaloby je zřejmé, že my ostatní jsme v ní do značné míry proto, aby bylo možné celou věc označit za činnost „organizované skupiny“ a použít přísnější právní kvalifikaci. Jsem přesvědčený, že jsem se do toho „balíku“ dostal především kvůli tomu, že jsem byl menšinovým společníkem a technickým dodavatelem, nikoli kvůli vlastní trestné činnosti, kterou jsem nespáchal.
+Zároveň si velmi dobře uvědomuji jednu věc: v jádru téhle kauzy nejde o mě. Těžiště obvinění míří na hlavního společníka Andreje Anastasova. Nechci hodnotit jeho vinu ani skutky, ale z konstrukce obžaloby je zřejmé, že my ostatní jsme v ní do značné míry proto, aby bylo možné celou věc označit za činnost „organizované skupiny“ a použít přísnější právní kvalifikaci. Jsem přesvědčený, že jsem se do toho „balíku“ dostal především kvůli tomu, že jsem byl menšinovým společníkem a technickým dodavatelem.
 
-O mé kauze se v médiích většinou mlčí. A když už se nějaká zpráva objeví, je to obvykle jednostranný opis policejního textu bez minimální snahy o objektivitu. Tady bych vypíchnul jedinou výjimku, kterou je Jakub Zelenka. Jakkoli s ním mohu v něčem nesouhlasit, tak je to jediný autor textu v této kauze, kterého vůbec napadlo zeptat se i druhé strany. Jediný skutečný novinář. Nebudu hodnotit, co jsou ostatní, ale novináři určitě ne. A protože většina lidí má přirozený sklon věřit, že „přece by stát nikoho jen tak neobvinil, kdyby se nic nestalo“, vzniká čtením jednostranných a neobjektivních kopií policejních tiskovek dojem, že „na tom něco určitě bude“. Nevyčítám to nikomu, také jsem tak dřív přemýšlel. Navíc, když si lidé přečtou o všech těch milionech, drogách a dalších věcech, tak je to přece jasné. Kdo by řešil detaily jako, že tady se budovala 23 let nějaká firma, která řádně platila daně a dala do toho podnikání statísíce hodin práce, nebo, že všechny ty excesy a peníze poukazují jen na jednu osobu. To jsou detaily, co nikoho nezajímají, čtou se jen titulky. Jak říkám, nikomu to nevyčítám, jen je mi z toho trochu smutno a úzko. Moc rád bych to pojmenoval jinym slovem než propaganda, ale jak jinak pojmenovat čiste jednostranné opakování policejních zpráv, kde není dán žádný prostor druhé straně?
+O mé kauze se v médiích většinou mlčí. A když už se nějaká zpráva objeví, je to obvykle jednostranný opis policejního textu bez minimální snahy o objektivitu. Tady bych vypíchnul jedinou výjimku, kterou je Jakub Zelenka. Jakkoli s ním mohu v něčem nesouhlasit, tak je to jediný autor textu v této kauze, kterého vůbec napadlo zeptat se i druhé strany. Jediný skutečný novinář. Nebudu hodnotit, co jsou ostatní, ale novináři určitě ne. A protože většina lidí má přirozený sklon věřit, že „přece by stát nikoho jen tak neobvinil, kdyby se nic nestalo“, vzniká čtením jednostranných a neobjektivních kopií policejních tiskovek dojem, že „na tom něco určitě bude“. Nevyčítám to nikomu, také jsem tak dřív přemýšlel. Navíc, když si lidé přečtou o všech těch milionech, drogách a dalších věcech, tak je to přece jasné. Kdo by řešil detaily jako, že tady se budovala 23 let nějaká firma, která řádně platila daně a dala do toho podnikání statísíce hodin práce, nebo, že všechny ty excesy a peníze **poukazují stále jen na jednu osobu**. To jsou detaily, co nikoho nezajímají, čtou se jen titulky. Jak říkám, nikomu to nevyčítám, jen je mi z toho trochu smutno. Moc rád bych to pojmenoval jinym slovem než propaganda, ale jak jinak pojmenovat čiste jednostranné opakování policejních zpráv, kde není dán žádný prostor druhé straně?
 
-To ale nechme stranou. Chci vám zde nabídnout ucelený pohled na kauzu portálu Sex.cz. Nejen lidský příběh, ale také jasné vysvětlení toho, co jsme skutečně dělali, co říká zákon a proč jsem přesvědčen, že jsme se ničeho trestného nedopustili. A pokud někde skutečně došlo k bezprecedentnímu selhání, pak to nebylo na straně mojí ani mých kolegů, ale na straně státních orgánů, které naši kauzu odstartovaly.
+To ale nechme stranou. Chci vám zde nabídnout ucelený pohled na kauzu portálu Sex.cz. Nejen lidský příběh, ale také jasné vysvětlení toho, co jsme skutečně dělali, co říká zákon a proč jsem za sebe přesvědčen, že jsme se ničeho trestného nedopustili.
 
-Moje jméno není zcela neznámé. Dlouhé roky se pohybuji v oblasti IT, komunikace, magazínech počítačových her. Se svým společníkem Karlem Roubalem podnikáme od roku 1993 a vybudovali jsme firmu, která mimo jiné léta úspěšně fungovala v médiích a vývoji webových projektů. Odkup menšinového podílu ve společnosti EOL provozující erotickou inzerci v roce 2017 nebyl žádný výstřelek šílenství (Pojďme přejít ke zločinu, když 28 let úspěšně a poctivě podnikáme) – předcházely mu dlouhé úvahy a také právní analýzy, které zcela jasně potvrdily, že se nejedná o kuplířství, ale o zcela legální prodej inzerce.
+Moje jméno není zcela neznámé. Dlouhé roky se pohybuji v oblasti IT, komunikace, magazínech počítačových her. Se svým společníkem Karlem Roubalem podnikáme od roku 1993 a vybudovali jsme firmu, která mimo jiné léta úspěšně fungovala v médiích a vývoji webových projektů. Přes 20 let jsme postupně pacovali aby se naší firmě dařilo. Odkup menšinového podílu ve společnosti EOL provozující erotickou inzerci v roce 2017 nebyl žádný výstřelek šílenství (Pojďme přejít ke zločinu, když 28 let úspěšně a poctivě podnikáme) – předcházely mu dlouhé úvahy a také právní analýzy, které zcela jasně potvrdily, že se nejedná o kuplířství, ale o zcela legální prodej inzerce.
 
 Chci tím říct toto:
 nepodnikal jsem v sexuálních službách „odjakživa“.
@@ -49,12 +59,8 @@ Do této oblasti jsem vstoupil až v listopadu 2017 a pouze jako technologický 
 Teď si možná někteří z vás řeknou: „Dobře mu tak, prodával prostitutky,“ nebo že se snažím bránit něco nelegálního.
 Ne. Nedělal jsem nic nelegálního. Nic, co by porušovalo zákony této země. Všechny výdělky byly legální, zdaněné a pocházely z prodeje reklamy – nikoliv z prostituce kohokoli.
 
-Proto považuji zásah NCOZ, který celou věc odstartoval, za bezprecedentní útok na podnikání, na presumpci neviny, na základní právní principy a na lidskou důstojnost.
-
 Níže vám vysvětlím, co jsme skutečně dělali, jak situaci popisuje zákon a proč se bráním. Nebudu nic skrývat ani zjemňovat.
 Řeknu vám svůj pohled
-
-
 
 
 ---
