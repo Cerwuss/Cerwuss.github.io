@@ -522,11 +522,11 @@ Tohle není úplně pravda, ne takto.
 Společným jmenovatelem veškerých případů, kde byla tato věta použita je, že pachatel je ekonomickým „pánem“ nad provozem prostituce a **jeho příjem je přímo úměrný výnosům prostitutek** – čím více prostitutka vydělá, tím více vydělá i on. 
 V těchto skutkových situacích plně chápu závěr soudů, že **šlo o kořistění z prostituce provozované jiným**.
 Pokud by byla formulace „opakovaně bere peníze od prostitutky a ví, že jde o prostituci“ použita bez tohoto skutkového rámce, vedlo by to k nepřiměřenému rozšíření pojmu kořistění tak, že by zahrnul i řadu zcela běžných a legitimních vztahů:
-- gynekologa, který prostitutku léčí za běžný honorář, 
-- kadeřníka, který ji stříhá za obvyklou cenu, 
-- restauraci, která jí prodá jídlo, 
-- provozovatele posilovny, který jí prodá permanentku,
-- jakéhokoli poskytovatele reklamy nebo internetové inzerce. 
+  - gynekologa, který prostitutku léčí za běžný honorář, 
+  - kadeřníka, který ji stříhá za obvyklou cenu, 
+  - restauraci, která jí prodá jídlo, 
+  - provozovatele posilovny, který jí prodá permanentku,
+  - jakéhokoli poskytovatele reklamy nebo internetové inzerce. 
 U všech těchto subjektů platí, že opakovaně přijímají odměnu od osob provozujících prostituci a často mohou vědět, čím se jejich klienti živí. **Přesto je zřejmé, že nikoho nenapadne považovat je za „kořistitele z prostituce“**.
 
 ### A co je teda podle vás kořistění?
