@@ -154,8 +154,7 @@ Ano.
 Ne. Pouze pevný paušál za měsíční zobrazení inzerce.
 
 ### Proč to tedy stát označuje za „kořistění“?
-Protože obžaloba tvrdí, že už samotná placená inzerce znamená „umožnění prostituce“.  
-S tím zásadně nesouhlasím, protože zde chybí to, co je pro kuplířství typické: organizace a odčerpávání výtěžku.
+Protože obžaloba tvrdí, že už samotná placená inzerce znamená „umožnění prostituce“. S tím zásadně nesouhlasím. Kromě jiného zde chybí to, co je pro kuplířství typické: organizace a odčerpávání výtěžku.
 
 ### Bez sex.cz by prostituce neexistovala?
 Ne. Po ukončení portálu se inzerce okamžitě přesunula jinam. To je realita trhu.
