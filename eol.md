@@ -1,629 +1,176 @@
 # Jakub Červinka: Moje osobní vyjádření k případu „sex.cz“
 
-Poslední aktualizace: *info 15.12.2025 - Dnes jsem dostal do rukou obžalobu. - Má 430 stran. 
-to znamená, že všechny na této stránce napsané věci už nemusí být nutně aktuální. Projdu vše a opravím po načtení obžaloby. Předpokládaný odhad je, že se toto projeví na těchto stránkách po Vánocích.*
-
-Tento text jsem napsal protože o mém případu koluje mnoho domněnek a zjednodušení. 
-
-## Důležité upozornění
-Byl jsem upozorněn, že jsem nezdůraznil něco, co mi přišlo samozřejmé, tak to řeknu v kostce hned na začátku.
-
-**Jediné**, co je mi kladeno za vinu, se týká provozování portálu sex.cz. To obvodní státní zástupkyně klasifikuje jako kuplířství (jen část alinea 2), a protože jsme to dělaji ve více lidech, tak navíc v organizované zločinecké skupině. (ale stále jde jen o kuplířství alinea 2)
-S **ničím dalším**, co jste o kauze četli nebo slyšeli (drogy, zneužívání atd.) **nemám naprosto nic společného** a to ani podle orgánů činných v trestním řízení. O těchto věcech jsem sám nevěděl, dokud jsem si o nich nepřečetl ve spisu. Proto k těmto skutečnostem nemám co více říci a dále se věnuji jen věci mě kladené za vinu.
-
-Chci na jednom místě jasně a srozumitelně popsat:
-
-- co se podle policie mělo stát,
-- co se ve skutečnosti dělo,
-- proč si myslím, že se tady někdo pokouší trestně postihnout něco, co bylo v Česku přes 30 let běžnou a otevřenou součástí médií a internetu,
-- a proč jsem přesvědčený, že jsem nepáchal trestný čin.
+**Poslední aktualizace:** (18.1.2026)  
+_Obžalobu (cca 430 stran) jsem prošel celou. Tento text je aktualizovaný po jejím prostudování._
 
 ---
 
-## Obsah
+## Důležité upozornění: Obžaloba míchá dvě zcela nesouvisející věci
 
-- [Úvod](#úvod)
-- [Stručné shrnutí](#stručné-shrnutí)
-- [Co policie říká, že se dělo – a co z toho je pravda](#co-policie-říká-že-se-dělo--a-co-z-toho-je-pravda)
-- [Co se ve skutečnosti dělo](#co-se-ve-skutčnosti-dělo)
-- [Proč si myslím, že nejde o kuplířství](#proč-si-myslím-že-nejde-o-kuplířství)
-- [Moje role ve firmě](#moje-role-ve-firmě)
-- [Jak erotická inzerce existovala v ČR od roku 1989](#jak-erotická-inzerce-existovala-v-čr-od-roku-1989)
-- [Proč považuji obvinění za nepochopení principu inzerce](#proč-považuji-obvinění-za-nepochopení-principu-inzerce)
-- [Proč mělo být použito mírnější řešení než trestní řízení](#proč-mělo-být-použito-mírnější-řešení-než-trestní-řízení)
-- [Časté otázky (FAQ)](#časté-otázky-faq)
-- [Závěr](#závěr)
-- [Kontakt](#kontakt)
+Drtivá většina obžaloby se týká skutků Andreje Anastasova jako soukromé osoby  
+(násilné, mravnostní a drogové skutky).
 
----
+**S těmito věcmi nemám nic společného a nejsem z nich obviněn.**  
+Proto se zde o těchto skutečnostech nehodlám dále vyjadřovat ani je hodnotit.  
+Vyjadřuji se výhradně k jediné věci, která je mi (a několika dalším osobám) kladena za vinu:
 
-## Úvod
+> Provoz inzertního portálu sex.cz je podle obžaloby kuplířství (§ 189, „kořistění“).  
+> A protože se to mělo dít ve více lidech, je to spojeno i s kvalifikací „organizované zločinecké skupiny“.
 
-Jmenuji se Jakub Červinka a rád bych vám na této stránce popsal svůj příběh – příběh, který mě postavil do situace, o níž by mě v životě nenapadlo, že ji vůbec zažiju. Chci vám vyprávět o podnikání, které bylo v České republice běžné více než dvě desetiletí, a které přesto skončilo bezprecedetním trestním stíháním. 
+Jsem přesvědčen, že tyto dvě linie (provoz inzertního portálu vs. soukromé skutky jedné osoby)  
+**nemají být spojovány do jednoho případu**.
 
-Nebudu vám zde tvrdit, že jsem nevinný, ne proto, že bych si myslel něco jiného, nebo že bych nechtěl, ale proto, že to říká naprosto každý a ti, co jsou vinní, asi nejvíc. Místo toho bych chtěl pokud možno, co nejsouvisleji popsat celou situaci. Uvést co nejvíce faktů a doložitelných skutečností, aby jste si udělali názor sami.
+Toto spojení vytváří tzv. *halo efekt* a zcela **zastiňuje jedinou skutečně relevantní otázku**:
 
-Zároveň si velmi dobře uvědomuji jednu věc: v jádru téhle kauzy nejde o mě. Těžiště obvinění míří na hlavního společníka Andreje Anastasova. Nechci hodnotit jeho vinu ani skutky, ale z konstrukce obžaloby je zřejmé, že my ostatní jsme v ní do značné míry proto, aby bylo možné celou věc označit za činnost „organizované skupiny“ a použít přísnější právní kvalifikaci. Jsem přesvědčený, že jsem se do toho „balíku“ dostal především kvůli tomu, že jsem byl menšinovým společníkem a technickým dodavatelem.
-
-O mé kauze se v médiích většinou mlčí. A když už se nějaká zpráva objeví, je to obvykle jednostranný opis policejního textu bez minimální snahy o objektivitu. Tady bych vypíchnul jedinou výjimku, kterou je Jakub Zelenka. Jakkoli s ním mohu v něčem nesouhlasit, tak je to jediný autor textu v této kauze, kterého vůbec napadlo zeptat se i druhé strany. Jediný skutečný novinář. Nebudu hodnotit, co jsou ostatní, ale novináři určitě ne. A protože většina lidí má přirozený sklon věřit, že „přece by stát nikoho jen tak neobvinil, kdyby se nic nestalo“, vzniká čtením jednostranných a neobjektivních kopií policejních tiskovek dojem, že „na tom něco určitě bude“. Nevyčítám to nikomu, také jsem tak dřív přemýšlel. Navíc, když si lidé přečtou o všech těch milionech, drogách a dalších věcech, tak je to přece jasné. Kdo by řešil detaily jako, že tady se budovala 23 let nějaká firma, která řádně platila daně a dala do toho podnikání statísíce hodin práce, nebo, že všechny ty excesy a peníze **poukazují stále jen na jednu osobu**. To jsou detaily, co nikoho nezajímají, čtou se jen titulky. Jak říkám, nikomu to nevyčítám.
-
-To ale nechme stranou. Chci vám zde nabídnout ucelený pohled na kauzu portálu Sex.cz. Jasné vysvětlení toho, co jsme skutečně dělali, co říká zákon a proč jsem za sebe přesvědčen, že jsme se ničeho trestného nedopustili.
-
-Moje jméno není zcela neznámé. Dlouhé roky se pohybuji v oblasti IT, komunikace a magazínech počítačových her. Se svým společníkem Karlem Roubalem podnikáme od roku 1993 a vybudovali jsme firmu, která mimo jiné léta úspěšně fungovala v médiích (SCORE, T3, Applikace atd.) a vývoji webových projektů. Přes 20 let jsme postupně pracovali, aby se naší firmě dařilo. Odkup menšinového podílu ve společnosti EOL provozující erotickou inzerci v roce 2017 nebyl žádný výstřelek šílenství (Pojďme přejít ke zločinu, když 28 let úspěšně a poctivě podnikáme) – Naopak, předcházely mu dlouhé úvahy a také právní analýzy, které zcela jasně potvrdily, že se nejedná o kuplířství, ale o zcela legální prodej inzerce.
-
-Chci tím říct toto:
-nepodnikal jsem v sexuálních službách „odjakživa“.
-Do této oblasti jsem vstoupil až v listopadu 2017 a pouze jako technologický správce inzertní platformy, nikoli jako kdokoli, kdo by se jakkoli podílel na prostituci. 
-
-Teď si možná někteří z vás řeknou: „Dobře mu tak, prodával prostitutky,“ nebo že se snažím bránit něco nelegálního.
-Ne. Nedělal jsem nic nelegálního. Nic, co by porušovalo zákony této země. Všechny výdělky byly legální, zdaněné a pocházely z prodeje reklamy – nikoliv z prostituce kohokoli.
-
-Níže vám vysvětlím, co jsme skutečně dělali, jak situaci popisuje zákon a proč se bráním. Nebudu nic skrývat ani zjemňovat.
-Řeknu vám svůj pohled
-
+**Je provoz inzertní platformy kuplířství, nebo není?**
 
 ---
 
-## Stručné shrnutí
-
-Jsem obviněn z toho, že jsem měl „kořistit z prostituce“ díky provozu internetového portálu sex.cz.
-
-Chci jasně říct:
-
-- ano, na stránkách se inzerovaly i erotické služby,
-- ano, je to pravda a nikdy jsem to neskrýval,
-- ale ne – z toho ještě automaticky neplyne trestný čin.
-
-Erotická inzerce existuje v Česku od roku 1989:
-
-- byla v Annonci a dalších inzertních novinách,
-- objevovala se v řadě časopisů a později na TV stanicích,
-- běžela na různých internetových portálech včetně velkých erotických serverů.
-- běží dodnes na óčku
-- amateri.cz
-- atd. 
-
-U nás to fungovalo ve stejném modelu jako kdekoliv jinde:
-
-- pevná cena za reklamu,
-- žádný podíl na výdělku inzerenta,
-- běžný inzertní vztah.
-
-Co mi klade policie za vinu, je podle mého názoru pokus překvalifikovat inzerci na trestný čin.
+## Shrnutí 
+- Ano, na webu byla erotická inzerce a to včetně nabídek placených sexuálních služeb.
+  (těch byla většina)  
+- Ano, inzerenti platili **pevný poplatek** za zveřejnění inzerátu a to před zveřejněním inzerátu. 
+- Ne, neměli jsme žádný podíl na jejich výdělcích, nebrali jsme provize a nic jsme neorganizovali.  
+- Spor je **čistě právní**: zda lze paušální platbu za reklamu označit za „kořistění z prostituce“.
 
 ---
 
-## Co policie říká, že se dělo – a co z toho je pravda
+## Co je mi kladeno za vinu, a co ne
 
-Nechci nic přikrášlovat ani skrývat. To, co je níže, je pravda.
+**Je mi kladeno za vinu:**
+- že jsem se podílel na provozu inzertní platformy (technický provoz, vývoj, standardní provozní procesy)
+- že jsem věděl, co je obsahem izerátů na webu sex.cz.
+  
+  **To je pravda.** Skutečně jsem výše zmíněné činnosti dělal. Pochopitelně jsem ani náhodou drtivou většinu inzerátů na webech sex.cz nečetl, ale i tak jsem přesto měl poměrně jasnou představu k čemu některé z nich slouží.
+  
+Výše zmíněné je obžalobou vykládáno jako „kořistění“ podle § 189.
 
-### 1) Na webu byly inzeráty, ve kterých lidé nabízeli erotické služby
 
-Ano. Na sex.cz inzerovali i lidé, kteří nabízeli erotické služby, včetně prostituce. Stejně jako na desítkách dalších webů v ČR. A rovnou konstatuji, že jsme si toho byli vědomi.
-
-### 2) Tito lidé platili firmě EOL.cz s.r.o. za zveřejnění své inzerce
-
-Ano. Platili pevnou měsíční částku za inzertní prostor.
-
-### 3) Inzerenti byli různí – prostitutky, masérky, azylové pokoje, kluby, sexshopy, prodejci podpůrných prostředků atd…
-
-Ano. Sex.cz a přidružené stránky nebyly pouze „weby prostitutek“, ale erotický inzertní portál:
-
-- individuální inzerenti,
-- azylové pokoje,
-- masážní salony,
-- kluby,
-- sexshopy,
-- různé další služby.
-
-### 4) Firma měla z inzerce tržby
-
-Ano. Stejně jako jakákoli jiná firma prodávající reklamu nebo inzertní prostor.
-
-Tohle všechno je pravda a nic z toho nezapírám.
-
-S čím nesouhlasím, je závěr, který z toho státní zástupce dělá:
-
-> že když někdo opakovaně bere peníze od osoby provozující prostituci, pak z její prostituce automaticky „kořistí“.
-
-### 5) Policie tvrdí, že jsme „kontrolovali inzeráty“ protože jsme mluvili do jejich obsahu
-
-Ano, je pravda, že jsme inzeráty kontrolovali.  
-Ale je potřeba jasně říct **co** jsme kontrolovali a hlavně **proč**.
-
-Policie to interpretuje tak, že jsme kontrolovali obsah prostituce.  
-To není pravda.
-
-Ve skutečnosti jsme kontrolovali jen to, co kontroluje, nebo by alespoň měl kontrolovat **každý větší inzertní portál na světě** – tedy:
-
-- aby tam nebyly falešné fotky,  
-- aby tam nebyly evidentní podvody,  
-- aby inzerát odpovídal pravidlům webu.
-
-Nic z toho **nijak nesouviselo** s tím:
-
-- jaké služby inzerent nabízí,  
-- jestli jde o erotiku, masáže nebo něco jiného,  
-- jestli je poskytuje za peníze nebo zdarma,  
-- kolik si účtuje a zda vůbec něco účtuje.
-
-To nás nezajímalo a ani jsme do toho nezasahovali.
-
-### Přirovnání, které pochopí každý: jako S-Auto
-
-Představte si běžnou inzertní službu, třeba S-Auto.
-
-Co kontroluje jejich administrátor?
-
-- jestli fotka auta není ukradená z internetu,  
-- jestli někdo nenahrál Ferrari, které vůbec nevlastní,  
-- jestli inzerát není podvod.
-
-Co **nekontroluje**?
-
-- za kolik inzerent auto prodává,  
-- jak obchod proběhne,  
-- jestli si cenu domluví v hotovosti nebo převodem.
-
-Přesně takhle to fungovalo i u nás.
-
-### Co bylo naším cílem?
-
-Pouze to, aby na webu:
-
-- nebyly falešné fotky, nebo fotky profesionálním fotografem upravené k nepoznání
-- nebyly falešné profily,
-- nebyly podvody,
-- nebyly informace, které porušují pravidla portálu (např. uvedené ceny – ty jsme nechtěli zobrazovat vůbec).
-
-Náš cíl byl jednoduchý:  
-**aby byl web důvěryhodný a aby lidé věděli, že fotka je opravdu toho člověka, který inzeruje.**
-
-### A co jsme neřešili?
-
-- jestli inzerent nabízí erotiku, masáže nebo jen pronájem pokoje,  
-- jestli služby poskytuje za peníze nebo zdarma,  
-- jak probíhá komunikace mezi inzerentem a klientem,  
-- jaká je cena služeb,  
-- jaký má kdo výdělek.
-
-To jsme ani nemohli vědět, ani to nebylo naší rolí, tou bylo prouze nabídka kvalitní inzertní platformy.
+**Není mi kladeno za vinu:**
+- násilí, drogy, vydírání, zneužívání, události v Peru apod.,
+- nic, co by se týkalo soukromého jednání Andreje Anastasova mimo provoz portálu.
 
 ---
 
-Tedy ano, **kontrolovali jsme**, ale jen to, co kontroluje každý poskytovatel inzerce –  
-**pravost fotek a dodržení pravidel webu**, nikoli samotnou prostituci. A to proto, protože naš profit byl z inzerce a ne z prostituce.
+## Jak portál fungoval (jednoduše)
+- Inzerent zaplatil pevnou částku za měsíc.  
+- Dostal prostor pro text a fotografie jako v Annonci a na desítkách dalších stránek.   
+- Jestli inzerenta vůbec nějaký klient kontaktoval a jejich případná komunikace probíhalo zcela mimo nás.
 
-
-
----
-
-## Co se ve skutečnosti dělo
-
-Popíšu to co nejjednodušeji.
-
-### Web fungoval jako jakýkoli jiný reklamní portál
-
-- inzerent zaplatil pevnou částku za měsíc,
-- dostal prostor, kde mohl zveřejnit text a fotky,
-- nic víc.
-
-### Výdělek inzerenta nás nezajímal
-
-Neřešili jsme:
-
-- kolik má klientů,
-- kolik vydělává,
-- jestli má v daném měsíci 0 klientů nebo 200.
-
-Nevzali jsme si ani korunu z jeho konkrétních výdělků.
-
-### Poskytovali jsme technický provoz, ne služby spojené s prostitucí
-
-- nevlastnili jsme žádné byty, kluby, provozy,
-- neorganizovali jsme práci inzerentů,
-- neurčovali jsme ceny ani podmínky jejich služeb,
-- nepřiváděli jsme jim klienty jinak než tím, že jsme zobrazili jejich reklamu.
-
-### Šlo o reklamu, ne o řízení prostituce
-
-Náš vztah s inzerenty byl:
-
-- oni si koupili reklamu,
-- my jsme jim ji zobrazili,
-- tím náš vztah začal a skončil.
+**Důležité:**  
+Naše odměna byla stejná bez ohledu na to, zda měl inzerent nula klientů, nebo dvě stě - čistá platba za inzertní prostor.  
+Nebyli jsme nijak napojeni na jeho tržby a nijak jsme neřídili, či nekontrolovali jeho činnost.
+Samotná obžaloba nic takového ani netvrdí.
 
 ---
 
 ## Proč si myslím, že nejde o kuplířství
+Kuplířství v praxi znamená, že někdo **přímo těží z prostituce jiné osoby**, typicky formou:
+- podílu z výdělků,
+- provizí z jednotlivých služeb,
+- organizace a řízení prostituce,
+- kontroly nad osobami, které ji vykonávají.
 
-Vysvětlím to tak, aby tomu rozuměl i člověk, který nikdy nečetl trestní zákoník.
+U nás se **nic z toho nestalo**:
+- žádné provize z jednotlivých schůzek,
+- žádné stanovování cen,
+- žádné řízení „provozu prostituce“,
+- žádné byty, kluby ani „priváty“ v naší režii,
+- žádné odčerpávání výtěžku z konkrétní prostituce.
 
-### 1) Kuplířství znamená, že někdo žije přímo z prostituce jiné osoby
-
-Typicky:
-
-- bere procenta,
-- vybírá výpalné,
-- odčerpává část výdělku prostitutky,
-- přímo se podílí na jejím zisku z prostituce.
-
-My jsme žádný podíl na jejich výdělku neměli.
-
-### 2) My jsme měli příjem pouze z reklamy
-
-Tato platba:
-- není navázána na skutečný výkon prostituce, 
-- není navázána na počet klientů, které inzerent obdrží, 
-- není navázána na cenu ani výši jeho výdělku. 
-Jde o standardní vztah mezi poskytovatelem reklamního/inzertního prostoru a inzerentem.
-
-**Existuje reálná a přiměřená protihodnota**
-
-Webové stránky měly návštěvnost cca **150–200 tisíc** unikátních uživatelů **denně**. Cena za měsíční prezentaci (řádově několik tisíc korun) tak **odpovídala** či dokonce **byla pod obvyklou cenou** za reklamu na obdobně navštěvovaných webech.
-Inzerent tedy platil za to, že jeho inzerát uvidí velké množství návštěvníků – to je přesně povaha reklamní služby.
-Výše příjmu je nezávislá na výtěžku z prostituce
-
-**Prakticky to lze ilustrovat na třech situacích:**
-
-**Osoba A** si zaplatí inzerát na webu za 4 000 Kč a z jakéhokoli důvodu se další měsíc prostituci vůbec nevěnuje.
-Výtěžek z prostituce osoby A = 0 Kč.
-Hrubý zisk provozovatele webu = 4 000 Kč.
-
-**Osoba B** si zaplatí inzerát za 4 000 Kč a prostituci vykonává sporadicky, např. 20 klientů po 2 000 Kč.
-Výtěžek z prostituce osoby B = 40 000 Kč.
-Hrubý zisk provozovatele webu = stále 4 000 Kč.
-
-**Osoba C** si zaplatí inzerát za 4 000 Kč a prostituci vykonává intenzivně, např. 5 klientů denně, 5 dní v týdnu, celkem desítky klientů měsíčně po 2 000 Kč.
-Výtěžek z prostituce osoby C může činit řádově 200 000 Kč.
-Hrubý zisk provozovatele webu = stále 4 000 Kč.
-
-Z uvedeného je patrné, že zisk provozovatele webu **nemá přímou souvislost s výtěžkem z prostituce** inzerentů. Na rozdíl od skutečného pasáka zde neplatí, že „čím více prostitutka vydělá, tím více vydělám já“. Příjem je odvozen pouze od počtu zakoupených inzerátů, nikoli od objemu prostituční činnosti.
-
-Nejde o ekonomické parazitování, ale o běžný obchodní vztah
-
-Společnost neodčerpává žádnou část výtěžku z jednotlivých prostitučních úkonů. Poskytuje inzertní prostor za tržně přiměřenou cenu a přebírá podnikatelské riziko (náklady na provoz webu, marketing, technickou správu atd.).
-
-Ekonomicky jde o běžný vztah mezi poskytovatelem inzertní služby a inzerentem, nikoli o pasácký vztah, kdy pachatel žije přímo z prostituční činnosti jiné osoby.
-
-Náš příjem je úplně nezávislý na tom, jestli vydělá 0 Kč nebo 300 000 Kč.
-
-To není ekonomická závislost na prostituci. **To je běžný prodej reklamy.**
-
-### 3) Takto funguje inzerce v celé ČR už od 90. let
-
-Od roku 1989:
-
-- Annonce a další inzertní noviny,
-- různé seznamky a erotické rubriky,
-- internetové portály jako Amatéři, Seznamka69 a mnoho dalších.
-- stát dělá to samé, například ještě v roce 2023 jezdila po Praze tramvaj polepená reklamou na klub GOLDFINGERS - Dopravní podnik patří tuším státu. (Tento klub na sex.cz inzeroval také)
-
-Všude funguje princip:
-
-- pevná cena za inzerát,
-- žádný podíl na konkrétních výdělcích,
-- běžný obchodní vztah.
-
-Nikdy se to v ČR systematicky nekvalifikovalo jako kuplířství.
-
-### 4) Prostituce je v ČR legální
-
-Prostituce sama o sobě není trestná. Zdaní se jako jiná ekonomická činnost.
-
-Je tedy logické, že lidé:
-
-- si pronajímají prostory,
-- platí telefonní paušály,
-- kupují reklamu,
-- platí webové služby.
-
-Inzerce je běžný náklad podnikání, ne trestná činnost.
-
-### 5) Stát s námi dlouhodobě běžně komunikoval
-
-- policie se na nás opakovaně obracela v konkrétních kauzách,
-- získávala od nás informace k jednotlivým inzerátům,
-- nikdy nám nebylo sděleno, že by samotná inzerce byla považována za trestnou.
-
-Před vstupem do firmy jsme si nechali udělat právní analýzy, které dospěly k závěru, že tento model není kuplířství.
-
-### 6) Jaký je rozdíl mezi kořistěním a běžným podnikáním (příklad)
-Rozdíl se dá hezky ukázat na jednoduchém příkladu.
-
-Představme si výrobce speciálního ochranného prostředku (třeba pesaru), který je z technických důvodů zvlášť vhodný pro osoby provozující prostituci - lépe dezinfikuje, snižuje riziko infekcí, je snadno vyměnitelný atd. Z těchto důvodů by si jeho produkt ve velké míře kupovaly právě prostitutky, mnohem častěji než jiné skupiny uživatelů.
-
-Ten výrobce by svůj produkt prodával:
-- za férovou tržní cenu,
-- stejnou pro všechny odběratele,
-- bez procent z prostitučního výdělku a bez zvláštních „odvodů“ jen proto, že kupující je prostitutka.
-V takové situaci je zřejmé, že tento výrobce nekořistí z prostituce jiného, ale **žije z hodnoty vlastního produktu**. Soustředí se na to, aby jeho výrobek byl co nejlepší, bezpečný a konkurenceschopný - a to, že si ho z logických důvodů ve velké míře kupují právě prostitutky, z něj samo o sobě nedělá „pasáka“. Jinými slovy: je bohatý proto, že vyrábí dobrý produkt a prodává ho za obvyklou, nebo lepší cenu, ne proto, že si přisvojil část jejich prostitučního výdělku.
-
-To ostře kontrastuje se situací, kdy podnikatel nijak zásadně nevylepšuje svůj produkt či službu, ale veškerou energii soustředí na to, aby:
-- bylo co nejvíce prostituce,
-- prostitutky měly co nejvíce klientů a co největší zisky,
-- a z každého takového aktu „odkapla“ částka pro něj (procenta z tržeb, „režijní“ poplatky navázané na počet klientů apod.).
-V takovém případě už nejde o firmu, která žije z vlastního produktu, ale o podnik, který **žije z prostituce jiných** - tedy o model typický pro to, čemu zákon a úmluva OSN říkají „kořistění z prostituce jiného“.
-
-Shrnutí:
-V prvním případě se podnikatel soustředí na svůj produkt/službu, aby byla co nejlepší, a **zákazníci si ji vybírají proto, že jim dává hodnotu**.
-Ve druhém případě je **produkt/služba** v jádru nepodstatná - **je** to **jen záminka**, jak si přisvojit co největší část z prostitučního výdělku jiných, aby to „na oko“ vypadalo jako normální podnikání.
-
+Šlo o **reklamní službu za pevnou cenu**.
 
 ---
 
-## Moje role ve firmě
+## Infografika: shrnutí zjednodušené - můžete přebírat
 
-Moje činnost ve firmě EOL byla:
+![Infografika: Inzertní portál vs. kuplířství](assets/jednoducha-infografika.png)
 
-- technická správa webu sex.cz a dalších webů,
-- koordinace programátorských a kodérských prací,
-- správa administračních nástrojů (vnitřní systém),
-- výroba grafiky a bannerů,
-- řešení technických problémů a stížností druhého řádu (technického rázu),
-- právní koordinace při některých akvizicích (např. při koupi jiných webů).
+Pokud se obrázek nezobrazuje:  
+[Zobrazit infografiku](assets/jednoducha-infografika.png)
 
-Nedělal jsem:
+## Hlavní body obžaloby
+V celé 430ti stránkové obžalobě **není jediný důkaz kuplířství** kromě popisu fungování webové inzertní platformy spojené s tvrzením, že některé vyjmenované činnosti, které jsme vykonávali jsou "Nad rámec běžné inzerce"
 
-- řízení práce inzerentů,
-- stanovování cen jejich služeb,
-- rozdělování jejich zisků,
-- klasické „pasácké“ aktivity.
+**Obžaloba bod 433:** 
+_“Pakliže se obvinění hájí tím, že v bodu I. byli dlouhodobě oslovováni různými policejními orgány se žádostmi o poskytnutí součinnosti, jimž vždy vyhověli a příslušnou inzerci a údaje o inzerentovi poskytli, a žádným policejním orgánem jim nebylo ani naznačeno, že z jejich strany může docházet k trestně právnímu jednání, a současně jejich konkurence (např. provozovatelé Annonce, Inzert-expressu, apod.) trestně stíhána není, byť činí totéž, co činili obvinění, jeví se tato obhajoba jako účelová, neboť z popisu jednání jim v bodu I., kladeného za vinu i z podkladů ve spise se podává, že systematicky, dlouhodobě a osobně kontrolovali zadané inzeráty, komunikovali s inzerenty, oslovovali je za účelem platby inzerce, o neschválení inzerce z důvodu fotografií vypadajících příliš profesionálně, zabývali se i kontrolami, zda inzerujícím podnikům či privátu skutečně poskytuje sexuální služby za úplatu inzerovaný počet osob, aby tak obv. spol. EOL CZ, s.r.o., a další obvinění nepřicházeli o zisk, neboť ceny inzerce se odvíjely od počtu inzerovaných prostituujících osob. Popsané jednání bylo přitom zcela evidentně nad rámec běžného šíření reklamy, jímž se pokoušeli svoje jednání zakrývat, aby se tak vyhnuli trestnímu postihu.”_
 
-Z mého pohledu šlo o IT a mediální projekt – o provoz velkého webu a jeho technický a grafický rozvoj.
+Ani obžaloba tedy přímo nezpochybňuje skutečnost, že existuje rámec běžného šíření reklamy – v tomto případě tedy inzerce erotických služeb. Pouze tvrdí, že pod rouškou běžného šíření reklamy obvinění konali trestnou činnosti spočívajícící v následujících úkonech:
+1. dlouhodobě a osobně kontrolovali zadané inzeráty	
+2. komunikovali s inzerenty
+3. oslovovali je za účelem platby inzerce
+4. o neschválení inzerce z důvodu fotografií vypadajících příliš profesionálně
+5. zabývali se i kontrolami, zda inzerujícím podnikům či privátu skutečně poskytuje sexuální služby za úplatu inzerovaný počet osob, aby tak obv. spol. EOL CZ, s.r.o., a další obvinění nepřicházeli o zisk, neboť ceny inzerce se odvíjely od počtu inzerovaných prostituujících osob.
+   
+**Stručně k uvedeným bodům:**
+- **Dlouhodobě a osobně kontrolovali zadané inzeráty** - 	
+Kontrola inzerátů je nezbytnou náležitostí provozu inzertního serveru, zejména za účelem prevence protizákonného obsahu (dětská prostituce, dětská pornografie, prodej zakázaného zboží, pomluvy atd.) a zajištěním autentického obsahu. Dlouhodobost této činnosti vychází podstaty provozování inzertního serveru a budování dobrého jména. Osobní kontrola není jedinou formou, existují i automatizované formy kontroly inzerce. Tato praxe je běžná u všech inzertních serverů.
+- **Komunikovali s inzerenty** - 
+Komunikace s inzerenty je často nezbytnou náležitostí provozu inzertních platforem – od pomoci zadávání inzerátů samotných přes dodržování obchodních podmínek, stanovení rozsahu inzerce, platebních podmínek atd. Komunikace s inzerenty je běžnou praxí všech inzertních serverů.
+- **Oslovovali je za účelem platby inzerce** - 
+Připomenutí termínu platby za službu je běžnou praxí poskytovatelů všech služeb, nejenom služeb inzertních – telefonní operátoři, dodavatelé energií, poskytovatelé předplacených služeb atd. Reklamní prostor je poskytován za úplatu, je tedy zcela relevantní tuto úplatu požadovat.
+- **Neschválení inzerce z důvodu fotografií vypadajících příliš profesionálně** - 
+Je právem inzertního serveru stanovit vlastní obchodní podmínky a rozhodovat o zveřejnění či nezveřejnění předmětného inzerátu na základě těchto obchodních podmínek. Pro doplnění - účelem zákazu profesionálních fotografií v tomto případě není zakrytí podstaty poskytovaných služeb, ale zachování autentičnosti inzerátů a rovné podmínky pro všechny inzerenty. Pro představu Inzertní server s automobily určitě nechce aby se k inzerátům dávaly komerční fotografie aut, nebo aby se retušovaly promáčkliny či jiné závady na vozidlech.
+- **Zabývali se i kontrolami, zda inzerujícím podnikům či privátu skutečně poskytuje sexuální služby za úplatu inzerovaný počet osob, aby tak obv. spol. EOL CZ, s.r.o., a další obvinění nepřicházeli o zisk, neboť ceny inzerce se odvíjely od počtu inzerovaných prostituujících osob.** - 
+Toto rozhodně není a nebylo standardní a běžnou činností, ale ojedinělými případy v případě důvodného podezření, že je pod standardní inzercí jedné osoby **v rozporu s obchodními podmínkami** serveru prezentováno osob více a zcela jistě to nebylo závislé na skutečnosti, jaké služby inzerované osoby nabízejí. Podobně jako by provozovatel inzertního serveru a ojetými vozidly, kde jednotlivci nabízejí individuálně k prodeji svoje vozidla postupoval v případě, že by se v rozporu s obchodními podmínkami serveru objevil inzerát autobazaru vydávající se za soukromou osobu.
+Maximalizace zisku je podstatou každého podnikání, požadavek na dodržování obchodních podmínek je tedy legitimní
 
----
+Tyto činnosti však nejsou „pasácké“. Jde o **standardní procesy každého většího inzertního portálu**.
+Jsou to projevy správy platformy, nikoli organizace prostituce.
 
-## Jak erotická inzerce existovala v ČR od roku 1989
-
-Po roce 1989 byla erotická inzerce:
-
-- běžnou součástí novin a inzertních titulů,
-- přítomná v různých časopisech,
-- později i na televizních stanicích,
-- a poté logicky přešla i na internet.
-
-Nikdy nebyla vnímána jako kuplířství jen proto, že někdo za inzerát zaplatí.
-
-My jsme fungovali stejně jako dřívější tištěné rubriky – jen v online podobě:
-
-- inzerát,
-- pevná cena,
-- žádné procento z výdělku.
-
----
-
-## Proč považuji obvinění za nepochopení principu inzerce
-
-V jádru věci jde o záměnu dvou rozdílných situací:
-
-### Co je normální obchodní vztah
-
-- prostitutka zaplatí za reklamu,
-- pronajme si byt,
-- koupí si telefon, oblečení, dopravu.
-
-Všichni ti, kdo jí tyto služby poskytují, žijí z toho, že prodávají svou službu nebo produkt, ne z její prostituce jako takové.
-
-### Co je kuplířství
-
-- někdo je napojen přímo na výdělek prostitutky,
-- bere z každé její zakázky procenta nebo pevnou částku,
-- bez skutečné protihodnoty.
-
-Pokud by bylo pravda, že „kdo přijímá peníze od prostitutky, kořistí z prostituce“, pak by byli kuplíři:
-
-- pronajímatelé bytů,
-- telefonní operátoři,
-- dopravci,
-- restaurace,
-- e-shopy s erotickým zbožím,
-- jakýkoli poskytovatel služeb, který má mezi klienty osoby provozující prostituci.
-
-Stejně absurdní je dělat kuplíře z provozovatele inzertního portálu, který prodává reklamu.
+Za zmínku stojí i to, jak se obžaloba vypořádala s velice důležitým argumentem, a totiž s tím, že jsme dlouhodobě v mnoha stovkách případů a po mnoho let komunikovali s policií na běžné bázi a neměli jsme sebemenší indikaci toho, že by provoz webu mohl být kvalifikován jako trestná činnost, protože kdyby policisté, kteří s námi jednali a to zejména policisté zabývající se mravnostními delikty, vyhodnotili provoz webu jako možné kuplířství, museli by dle zákona začít konat. S naším argumentem se státní zástupkyně vypořádala tak, **že ho označila za účelový**. To ale není vůbec žádný logický argument. Nedává to z žádného úhlu sebemenší smysl, kromě toho, že proti tomu žádný skutečný argument nemá. Ano, účelově jsme se hájili tím, co nám přišlo jako logické. WTF
 
 ---
 
-## Proč mělo být použito mírnější řešení než trestní řízení
+**Dalším bodem obžaloby je velikost**
 
-Rád bych zde zařadil jednu důležitou, byť trochu odbornější část.  
-Je zásadní proto, že vysvětluje, proč si myslím, že samotné zahájení trestního stíhání v této věci bylo chybou.
-Můj osobní názor je, že se v našem případě nejedná o trestný čin, ale i v případě, že někdo dojde k jinému závěru platí.
+Z důvodů naprosté nepřítomnosti jakýchkoli skutečných důkazů reálného kuplířství maskuje obžaloba jejich absenci svou velikostí - **430 stran**. Na skutečné důkazy totiž mnoho stránek nepotřebujete. 
 
-### Trestní právo má být až poslední možnost (tzv. *ultima ratio*)
+**Příklad:** V ulici té a té provozovali ve druhém patře podnik "U veselé paničky", kde inkasovali polovinu příjmů tří osob provozujících prostituci. Jednalo se o Anežku S. Romanu K. a Jiřinu D. Zmíněnou činnost vykonávali minimálně v roce 2019 a v roce 2020. 
 
-V českém právu platí zásada, že trestní právo se má použít **jen tehdy, pokud už žádný jiný, mírnější prostředek nestačí**.  
-Tuto zásadu znají i soudy a dlouhodobě ji zdůrazňují (např. Nejvyšší soud ve stanovisku Tpjn 301/2012 a Ústavní soud v nálezech I. ÚS 3113/13, II. ÚS 3080/16, II. ÚS 474/19).
+Pro srovnání aktualizovaná obžaloba Nicolase Madura z letošního ledna má celkem **25 stran**, ve kterých je kompletně sepsáno spiknutí k narkoterorismu, spiknutí k dovozu kokainu a držení a spiknutí k držení těžkých zbraní. Takové věci se totiž dají napsat na pár stránek. Problém je, když důkazy nemáte a potřebujete to nějak zamaskovat. V takovém případě jich napíšete například 430 Protože celkem oprávněně věříte, že si soudce před tou hromadou řekne. Tam něco určite je. **Ale není.**
 
-Zjednodušeně řečeno:
+S tím souvisí i navrhovaná výše trestů aby vše vypadalo jako monstr kolosální případ, ve kterém přeci určitě něco je. Tak například naši programátoři mají paní státní zástupkyní navrženou výši trestu 7.5 let nepodmíněně a starobní důchodkyně, která si prokazatelně pouze pomohla k plnění v hodnotě 4.000,-kč bez DPH měsíčně tím, že dělala pro sex.cz malou administrativu má podle státní zástupkyně po zásluze spravedlivě za tento zločin ve svých 75ti letech navrzenou výši trestu 7 let nepodmíněně. Mě osobně navrhuhuje paní státní zástupkyně 9 let nepodmíněně plus propadnutí majetku kam mimo jiné patří rodinný dům, který na mne moji rodiče přepsali ani ne rok před zákrokem NCOZ a který nemá ani podle obžaloby s případem nic společného.
 
-> „Pokud lze určitou situaci vyřešit bez trestního řízení, nesmí se trestní řízení použít.“
+Finální důkaz neexistence jakýkoli skutečných důkazů trestné činnosti (kromě provozování webu samotného) dokládá sama státní zástupkyně na závěr obžaloby. Na místo, kde má být ten nejjasnější důkaz, kde by mělo zaznít: "A hlavně na vražedné zbrani jsou otisky obžalovaného!", prostě na místě kde má být _Crème de la Create_ obžaloby jako nejprůkaznější důkaz viny, paní sttátní zástupkyně uvádí, že si dva obžalovaní v soukromém telefonním hovoru řekli že **je to o mrdání a penězích**. Tato pronesená slova jsou to, co je za rok a půl odposlechu a mnoho desítel milionů investovaných do tohoto vyšetřování to nejvíc inkriminující co na tomto míste paní státní zástupkyně dokázala uvést. 
 
-### Co to znamená v praxi?
+---
 
-Než policie nebo státní zástupce zahájí trestní stíhání, mají se ptát:
+## Moje role ve firmě (jednou větou)
 
-- Lze to vyřešit správním opatřením?  
-- Lze to upravit zákazem, omezením nebo regulací dané činnosti?  
-- Lze to vyřešit dohodou, upozorněním, nápravou provozu webu?  
-- Lze problém odstranit bez zásahu trestního práva?
-
-Pokud ANO, pak se trestní řízení zahájit **nemá**.
-Upozorňuji, že toto není na uvážení orgánů, ale povinnost.
-
-### V mém případě nic z toho neudělali
-
-Ze spisu vyplývá:
-
-- Policie ani státní zástupce **nezkusili ani jeden** mírnější prostředek.  
-- Nikde není uvedeno, **proč** by např. správní zásah, upozornění nebo omezení inzerce nepostačovaly.
-- Pouze bylo formálně konstatováno, že „mírnější prostředky nepřipadají v úvahu“.  
-
-Bez jediného vysvětlení, **proč** by nepřipadaly v úvahu.  
-Bez jediného pokusu o jejich použití.  
-Bez jediné zmínky, **jakou konkrétní škodu** by měly chránit.
-
-To je v příkrém rozporu s tím, co požaduje judikatura Nejvyššího a Ústavního soudu.
-
-### Přitom mírnější řešení existovala – a byla by fungovala
-
-Stačilo například:
-
-- uložit omezení některých typů inzerce,  
-- uložit povinnost zvýšené moderace,  
-- upravit pravidla zobrazování inzerátů,  
-- nebo případně činnost webu správně regulovat.
-
-To je běžné v jiných oblastech podnikání – od hazardu po reklamu.  
-Nic z toho však státní zastupitelství ani policie ani nezkusily, ani nevysvětlily, proč to údajně „nejde“.
-
-### Proč je to důležité?
-
-Protože trestní právo má být použito **jen tam, kde jiný způsob ochrany selže**.  
-V tomto případě však:
-
-- nebyla popsána žádná konkrétní škoda,  
-- nebylo prokázáno, že by naše činnost někoho ohrozila,  
-- nebylo vysvětleno, proč by mírnější opatření nestačila,  
-- nebylo ani zkusmo použito jediné z nich.
-
-Jednoduše řečeno:
-
-> **Trestní řízení bylo použito jako první možnost, ač mělo být až poslední.**
-
-A právě to je jeden z hlavních důvodů, proč považuji zahájení trestního stíhání v této věci za nepřiměřené a nesprávné.
+Moje role byla primárně technická: provoz webu, vývoj, administrační nástroje, grafika a řešení technických problémů.  
+Nevykonával jsem žádné „pasácké“ činnosti a neměl jsem vliv na to, co kdo z našich inzerentů dělá v reálném světě. (nic takového ani obžaloba netvrdí)
 
 ---
 
 ## Časté otázky (FAQ)
 
-### Nabízeli lidé na vašem webu erotické služby?
+### Věděl jste, že se na webu inzerují placené sexuální služby?
+Ano.
 
-Ano. Na rovinu: ano.
+### Brali jste podíl z výdělků prostitutek?
+Ne. Pouze pevný paušál za měsíční zobrazení inzerce.
 
-### Věděl jste o tom?
+### Proč to tedy stát označuje za „kořistění“?
+Protože obžaloba tvrdí, že už samotná placená inzerce znamená „umožnění prostituce“.  
+S tím zásadně nesouhlasím, protože zde chybí to, co je pro kuplířství typické: organizace a odčerpávání výtěžku.
 
-Ano. Nikdy jsem to neskrýval a ani nebyl důvod to skrývat.
+### Bez sex.cz by prostituce neexistovala?
+Ne. Po ukončení portálu se inzerce okamžitě přesunula jinam. To je realita trhu.
 
-### Brali jste podíl z jejich výdělků?
+### Co znamená „organizovaná zločinecká skupina“ v mém případě?
+Organizovaná zločinecká skupina není totéž co organizovaná firma ačkoli mají velikou řadu solečných znaků. Abych byl jejím členem, muselo by se prokázat, že jsem věděl, že se účastním struktury určené k páchání trestné činnosti.
 
-Ne. Nikdy. Měli jsme pouze pevnou cenu za inzerci.
-
-### To ale přeci stačí, protože zákon jasně uvádí, že "... postačí opakované přijímání úplaty za to, že provozování prostituce umožňuje.", takze jste kuplíři a basta. Co vy na to?
-
-Tohle není úplně pravda, ne takto. 
-**Zaprvé**, tohle v zákoně nestojí. V zákoně, v bodě, který je mi kladen za vinu toto: "**kdo kořistí z prostituce provozované jiným**" Nic víc.
-**Zadruhé**, to co citujete je část judikátu. Judikát je rozhodnutí soudu v podobné věci a vámi zmíněná věta z takového rozhodnutí pochází, nicméně nesmíme zapomenout, že judikát je celý rozsudek a ne jedna vytržená věta. 
-**Zatřetí**, uplně všechny judikáty, kde se zmíněná veta nachází mají naprosto jinou skutkovou podstatu:
-- pachatel provozoval noční klub, hotel, bar či byt, v němž byla prostituce systematicky organizována, 
-- prostitutky tam pracovaly v jeho režii a pod kontrolou, 
-- pachatel přebíral část jejich výdělků (procenta, denní „výpalné“, neúměrně vysoké ceny ubytování apod.), 
-- v některých případech byl s prostitutkami výslovně dohodnut režim jejich práce a způsob dělení výnosů. 
-Společným jmenovatelem veškerých případů, kde byla tato věta použita je, že pachatel je ekonomickým „pánem“ nad provozem prostituce a **jeho příjem je přímo úměrný výnosům prostitutek** – čím více prostitutka vydělá, tím více vydělá i on. 
-V těchto skutkových situacích plně chápu závěr soudů, že **šlo o kořistění z prostituce provozované jiným**.
-Pokud by byla formulace „opakovaně bere peníze od prostitutky a ví, že jde o prostituci“ použita bez tohoto skutkového rámce, vedlo by to k nepřiměřenému rozšíření pojmu kořistění tak, že by zahrnul i řadu zcela běžných a legitimních vztahů:
-  - gynekologa, který prostitutku léčí za běžný honorář, 
-  - kadeřníka, který ji stříhá za obvyklou cenu, 
-  - restauraci, která jí prodá jídlo, 
-  - provozovatele posilovny, který jí prodá permanentku,
-  - jakéhokoli poskytovatele reklamy nebo internetové inzerce. 
-U všech těchto subjektů platí, že opakovaně přijímají odměnu od osob provozujících prostituci a často mohou vědět, čím se jejich klienti živí. **Přesto je zřejmé, že nikoho nenapadne považovat je za „kořistitele z prostituce“**.
-
-### A co je teda podle vás kořistění?
-
-Na toto téma jsme si udělali samostatný rozbor který zde nalinkuju. Ale obecně je kořistění to, co kazdý tak nějak sám od sebe už od mala moc dobře ví a dá se to definovat například jako: 
-**Obohacovat se na cizí činnosti nebo situaci bez přiměřené protihodnoty, nebo spravedlivého nároku, často proti vůli či zájmu toho, z koho se těží.**
-V obecné teorii zločinu (např. Klaus von Lampe, Organized Crime, Routledge 2016) je „kořistění“ chápáno jako:
-**systematické získávání zisku z cizí činnosti nebo ekonomické aktivity bez legální účasti či protihodnoty.**
-Jeden z nejnovějších judikátu ústavního soudu sp. zn. II. ÚS 1543/24 vztahujících se ke kuplířství říká o kořistění toto:
-**„Podstatné je, že pachatel odčerpává celý výtěžek nebo jeho část z úplaty získávané osobou provozující prostituci za tuto činnost, tedy že z této činnosti vědomě těží.“**
-Ústavní soud tedy výslovně klade důraz na to, že pachatel odčerpává celý výtěžek nebo jeho část z úplaty za prostituci. Z toho vyplývá, že:
-- pro znak kořistění je rozhodující ekonomická vazba mezi **výnosem z prostituce** a **ziskem pachatele**, 
-- není postačující jakákoli platba od prostitutky, pokud nemá charakter **odčerpávání výtěžku** z její **prostituční činnosti**. 
-Jak jsem ukázal na příkladu tří inzerentek **A**, **B** a **C**, firemní příjem za inzerci:
-- zůstává stejný (např. 4 000 Kč), i když výtěžek z prostituce je 0 Kč (**osoba A**), 
-- zůstává stejný i tehdy, když výtěžek z prostituce je 40 000 Kč (**osoba B**) nebo 200 000 Kč (**osoba C**). 
-Není zde tedy **žádné odčerpávání výtěžku z úplaty za prostituci**. Zisk EOL.cz byl odvozen **výhradně od ceny inzertní služby**, nikoli **od** výše **výdělku z prostituce**. Ústavním soudem formulovaný test znaku kořistění proto pro můj případ neplatí.
-
-
-### Je pravda, že jste měli velké tržby?
-
-Ano. Stejně jako každý velký portál s vysokou návštěvností, který prodává reklamu. Ale tržby nejsou zisk.
-Velké tržby jsou důsledkem velkého počtu inzerentů a dlouhé doby provozu, ne toho, že bychom někomu brali procenta z prostituce. Kromě velkých tržeb je ale třeba uvažovat i vysoké náklady spojené s provozem nesmírně komplexní a vysoce navštevované sítě webů. To už nikdo neuvádí ale přitom tyto náklady jsou součástí správně odevzdaného účetnictví firem spojených s tímto případem.
-
-
-### Co vlastně znamená „umožňuje provozování prostituce“?
-
-V zákoně je napsáno, že kuplířem je ten, kdo „kořistí z prostituce provozované jiným“. Některé starší rozsudky tuto větu vysvětlují tak, že někdy může stačit i to, že pachatel přijímá peníze za to, že prostitutce „umožňuje“ její činnost. To ale neznamená, že kuplířem je každý, kdo od prostitutky něco přijme. Soudy jasně opakují, že „umožňováním“ se myslí jen situace, kdy někdo poskytuje **konkrétní zázemí přímo pro prostituci** – například byt upravený na privát, pokoj v klubu nebo místo, kde se prostituce reálně odehrává – a zároveň z této činnosti **odčerpává výdělek** (procenta, nájem podle počtu klientů, výpalné apod.). Bez takové osoby by daná prostituce nemohla probíhat. To je klasický pasácký vztah.
-Provoz inzertní platformy je něco úplně jiného. My neposkytujeme prostor pro prostituci, nijak neorganizujeme její průběh, neurčujeme ceny, nerozdělujeme výdělky a nemáme z prostituce žádnou „provizi“. Inzerent může kdykoli odejít na jiný web nebo fungovat úplně jinak – naše služba není nezbytnou podmínkou jeho práce. A hlavní rozdíl je ekonomický: naše odměna je **pevná cena za reklamu**, ne podíl na tom, kolik kdo vydělá prostitucí. Právě tento rozdíl soudy považují za rozhodující.
-Kdyby zákon skutečně myslel to, že „umožňuje prostituci“ každý, kdo od prostitutky něco přijme, pak by kuplíři byli i lékaři, kadeřnice, banky, taxislužby nebo kdokoli, kdo jim poskytuje normální službu. Soudy samy upozorňují, že takový výklad je nesmyslný a v rozporu s účelem zákona. Proto tvrdím, že běžná inzerce není a nemůže být považována za „umožnění prostituce“ v trestním smyslu.
-
-
-### Je pravda, že bez sex.cz by prostituce nebyla, nebo byla ve zmenšené míře?
-
-Ne, ani náhodou. A dá se to lehce dokázat. Prostitutky existovaly dávno před vznikem sex.cz i po jeho ukončení v naprosto nezmenšené míře. Po zásahu policie se inzerenti instantně přesunuli na jiné weby a sociální sítě. Nikde ve spisu není sebemenší důkaz, že by se po zavření sex.cz v jakékoli míře omezila prostituce. Ani jediný příklad. V ČR dnes existují desítky portálů nabízejících erotickou inzerci.
-Například portál amatéři.cz nabral do měsíce od zavření portálu sex.cz několik nových moderátorů aby zvládli moderovat přesun inzerce. a ti co nepřešli tam, přesli do Anonnce a dalších.
-
-### Co to znamená, že jste v organizované zločinecké skupině?
-Organizovaná zločinecká skupina není totéž co „organizovaná firma“. Zákon tím myslí minimálně tři lidi, kteří mají mezi sebou rozdělené role, mají vnitřní strukturu a jejich společným cílem je páchat trestné činy.
-
-Abych mohl být členem takové skupiny, nestačí, že mám ve firmě nějakou roli a že firma má hierarchii. Muselo by se prokázat, že jsem věděl, že:
-- tahle struktura existuje **právě jako nástroj trestné činnosti**,
-- a že se moje práce neodehrává v rámci legálního podnikání, ale **v rámci „zločinecké organizace“**.
-V mém případě jsem dělal to, co dělám třicet let - IT, provoz webů, grafiku, koordinaci vývoje. Měli jsme právní analýzy, stát s námi roky běžně komunikoval, policie nás kontaktovala v jiných kauzách a nikdy neřekla, že je samotný model inzerce trestný. Erotická inzerce běžela v Česku od 90. let v novinách, časopisech, na jiných webech.
-
-Pokud dnes někdo zpětně tvrdí, že naše firma byla „organizovaná zločinecká skupina“, **pak by měl také vysvětlit**, kdy a jak jsem se měl dozvědět, že:
-- prodávání reklamy = trestný čin,
-- běžný IT provoz inzertního webu = účast na zločinecké skupině.
-Z mého pohledu jsem měl všechny racionální důvody věřit, že se podílím na legální činnosti (prodej inzerce), nikoliv na „firmě na zločin“. To je zásadní rozdíl, který trestní právo nemůže ignorovat. (Tedy dřív jsem tomu věřil.)
-
-Jak to vypadá, když se z organizované činnosti udělá „organizovaná zločinecká skupina“
-Aby bylo jasné, proč mi ta nálepka „organizovaná zločinecká skupina“ přijde absurdní, zkuste si představit následující:
-
-Každý rok chodíte s partou kamarádů na Velikonoce na koledu. Máte v tom určitou „organizaci“:
-- domluvíte si trasu,
-- rozdělíte si, kdo ponese košík, kdo bude zvonit, kdo bude recitovat,
-- někteří mají pomlázky, jiní řeční roli,
-na konci dne si rozdělíte vajíčka, čokoládu a panáky, které jste dostali od návštěv.
-Z pohledu zdravého rozumu je to prostě folklor a tradice. Jste organizovaná parta, ale cílem není nic trestného, jen společná akce.
-
-Teď si představte, že by někdo po letech přišel a napsal:
-„Skupina nejméně tří osob, s vnitřní strukturou a dělbou rolí, která opakovaně po dobu mnoha let chodí po domácnostech,
-vynucují si pomocí nástrojů, určených přímo k ubližování a působení bolestivých poranění, vstup do cizích bytů, některým osobám poranění "pomlázkou" udělají,
-a za to inkasují naturální plnění (alkohol, jídlo, peníze)…“
-a prohlásil vás za organizovanou zločineckou skupinu zaměřenou na loupeže a vydírání, protože „chodíte v partě, máte pomůcky a získáváte majetkový prospěch“.
-
-Všichni tušíme, že by to byl výklad úplně mimo realitu. Ano, je to organizované, ano, je tam nějaké „plnění“, ale:
-- nikdo z účastníků nevstupuje do skupiny s tím, že jde páchat zločiny,
-- věří, že jde o běžnou a společensky tolerovanou činnost (tradici),
-- žádný rozumný člověk by to nenazval „zločineckou organizací“.
-Stejně absurdní mi připadá, když se po letech běžného podnikání v oblasti inzerce, se všemi právními analýzami, komunikací se státem a daněmi, najednou z normální firmy stane „organizovaná zločinecká skupina“ jen proto, že měla strukturu a více lidí v různých rolích. Organizace sama o sobě ještě z nikoho mafiána nedělá - rozhodující je, jaký byl skutečný cíl té činnosti a co si o ní její účastníci důvodně mysleli.
-
-
-### Mluvíte za všechny obviněné?
-
-Ne. Toto je moje osobní vyjádření za mě jako fyzickou osobu. Nicméně většina spoluobviněných je na tom, pokud vím, stejně. Výjimkou je Andrej, kterého tu, co se týká ostatních obvinění, nijak nekomentuji, protože o tom vím pramálo a jestě jedna osoba, která podle mne neměla se skutečným provozem webu vůbec nic společného.
+Já ale měl (a stále mám) racionální důvody věřit, že jsem se podílel na legálním podnikání: prodeji reklamy, s právním prověřením a dlouhodobou tolerancí trhu bez jakékoli indicie (tedy do podzimu 2023), že by to mohlo být jinak.
 
 ---
 
 ## Závěr
 
-Jsem přesvědčený, že:
+Po prostudování obžaloby jsem ještě více přesvědčen, že moje část případu stojí na jediné otázce:
 
-- prodávání reklamy není kuplířství,
-- neodčerpával jsem výdělek prostitutek,
-- šlo o standardní, právně prověřené podnikání,
-- erotická inzerce byla v ČR běžná tři desetiletí,
-- a kriminalizovat ji nyní znamená trestně postihovat něco, co dlouhodobě fungovalo jako normální součást mediálního trhu.
+**Lze jakoukoli službu prostitutce, například provoz inzertní platformy s pevnou cenou za reklamu trestat jako kuplířství?**
 
-Když se člověk zamyslí nad tím, co jste si zde přečetli, dojde k jednoduchému závěru: veškerá naše činnost v rámci firmy EOL měla jediný skutečný cíl – aby byl náš produkt, tedy inzertní portál, co nejlepší. Všechno směřovalo k tomu, aby měl web vysokou návštěvnost, aby fungoval technicky, aby vypadal moderně, aby byl přehledný na mobilu i desktopu a aby měli jistotu, že inzeráty nejsou falešné. Kontroly fotek, redesigny, technický vývoj, marketing, práce grafiků, programátorů a administrátorů – to všechno sloužilo jedinému účelu: udělat kvalitní inzertní službu, kterou si inzerenti vyberou dobrovolně a zaplatí za ni běžnou cenu jako za jakoukoli jinou reklamu. To je princip otevřeného trhu a soutěže mezi inzertními portály. A právě to je obrovský rozdíl oproti kuplířství: my jsme nevytvářeli moc ani kontrolu nad prostitucí, nikoho jsme neorganizovali, neřídili ani nevyužívali. Jen jsme dělali profesionální web, který měl být lepší než konkurence – nic víc a nic míň.
+Já tvrdím, že ne.
 
-Tento text jsem napsal proto, aby kdokoli, kdo se o věc zajímá, měl možnost vidět celý obraz, ne jen zkratkovité formulace z trestního spisu.
-
----
-
-## Kontakt
-
-Pokud máte k tomuto textu dotazy, můžete mi napsat na e-mail:
-
-<cerv@gods.cz>
+Kontakt: <pripad@gods.cz>
