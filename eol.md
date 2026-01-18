@@ -124,7 +124,7 @@ Také je třeba poukázat na větu _"Popsané jednání bylo přitom zcela evide
 
 ---
 
-**Dalším bodem obžaloby je velikost**
+# **Dalším bodem obžaloby je velikost**
 
 Z důvodů naprosté nepřítomnosti jakýchkoli skutečných důkazů reálného kuplířství maskuje obžaloba jejich absenci svou velikostí - **430 stran**. Na skutečné důkazy totiž mnoho stránek nepotřebujete. 
 
@@ -134,7 +134,7 @@ Pro srovnání aktualizovaná obžaloba Nicolase Madura z letošního ledna má 
 
 S tím souvisí i navrhovaná výše trestů aby vše vypadalo jako monstr kolosální případ, ve kterém přeci určitě něco je. Tak například naši programátoři mají paní státní zástupkyní navrženou výši trestu 7.5 let nepodmíněně a starobní důchodkyně, která si prokazatelně pouze pomohla k plnění v hodnotě 4.000,-kč bez DPH měsíčně tím, že dělala pro sex.cz malou administrativu má podle státní zástupkyně po zásluze spravedlivě za tento zločin ve svých 75ti letech navrzenou výši trestu 7 let nepodmíněně. Mě osobně navrhuhuje paní státní zástupkyně 9 let nepodmíněně plus propadnutí majetku kam mimo jiné patří rodinný dům, který na mne moji rodiče přepsali ani ne rok před zákrokem NCOZ a který nemá ani podle obžaloby s případem nic společného.
 
-Finální důkaz neexistence jakýkoli skutečných důkazů trestné činnosti (kromě provozování webu samotného) dokládá sama státní zástupkyně na závěr obžaloby. Na místo, kde má být ten nejjasnější důkaz, kde by mělo zaznít: "A hlavně na vražedné zbrani jsou otisky obžalovaného!", prostě na místě kde má být _Crème de la Create_ obžaloby jako nejprůkaznější důkaz viny, paní státní zástupkyně uvádí, že si dva obžalovaní v soukromém telefonním hovoru řekli že **je to o mrdání a penězích**. Tato pronesená slova jsou to, co je za rok a půl odposlechu a mnoho desítel milionů investovaných do tohoto vyšetřování to nejvíc inkriminující co na tomto míste paní státní zástupkyně dokázala uvést. 
+Finální důkaz neexistence jakýkoli skutečných důkazů trestné činnosti (kromě provozování webu samotného) dokládá sama státní zástupkyně na závěr obžaloby. Na místo, kde má být ten nejjasnější důkaz. Kde by mělo zaznít: _"A hlavně na vražedné zbrani jsou otisky obžalovaného!"_, prostě na místě kde má být _Crème de la Create_ obžaloby jako nejprůkaznější důkaz viny, paní státní zástupkyně uvádí, že si dva obžalovaní v soukromém telefonním hovoru řekli že **je to o mrdání a penězích**. Tato pronesená slova jsou to, co je za rok a půl odposlechu a mnoho desítel milionů investovaných do tohoto vyšetřování to nejvíc inkriminující co na tomto míste paní státní zástupkyně dokázala uvést. 
 
 ---
 
