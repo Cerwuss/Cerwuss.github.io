@@ -16,8 +16,9 @@
 
 # Jakub Červinka: Moje osobní vyjádření k případu „sex.cz“
 
-**Poslední aktualizace:** (18.1.2026)  
-_Obžalobu (cca 430 stran) jsem prošel celou. Tento text je aktualizovaný po jejím prostudování._
+**Poslední aktualizace:** (19.1.2026)  
+_Doplněna upřesnění k několika odstavcům.
+(18.1.2026) Obžalobu (cca 430 stran) jsem prošel celou. Tento text je aktualizovaný po jejím prostudování._
 
 ---
 
@@ -44,7 +45,7 @@ Toto spojení vytváří tzv. *halo efekt* a zcela **zastiňuje jedinou skutečn
 
 ## Shrnutí 
 - Ano, na webu byla erotická inzerce a to včetně nabídek placených sexuálních služeb.
-  (těch byla většina)  
+  (těch byla větší část)  
 - Ano, inzerenti platili **pevný poplatek** za zveřejnění inzerátu a to před zveřejněním inzerátu. 
 - Ne, neměli jsme žádný podíl na jejich výdělcích, nebrali jsme provize a nic jsme neorganizovali.  
 - Spor je **čistě právní**: zda lze paušální platbu za reklamu označit za „kořistění z prostituce“.
@@ -55,7 +56,7 @@ Toto spojení vytváří tzv. *halo efekt* a zcela **zastiňuje jedinou skutečn
 
 **Je mi kladeno za vinu:**
 - že jsem se podílel na provozu inzertní platformy (technický provoz, vývoj, standardní provozní procesy)
-- že jsem věděl, co je obsahem izerátů na webu sex.cz.
+- že jsem věděl, co je obsahem inzerátů na webu sex.cz.
   
   **To je pravda.** Skutečně jsem výše zmíněné činnosti dělal. Pochopitelně jsem ani náhodou drtivou většinu inzerátů na webech sex.cz nečetl, ale i tak jsem přesto měl poměrně jasnou představu k čemu některé z nich slouží.
   
@@ -71,7 +72,7 @@ Výše zmíněné je obžalobou vykládáno jako „kořistění“ podle § 189
 ## Jak portál fungoval (jednoduše)
 - Inzerent zaplatil pevnou částku za měsíc.  
 - Dostal prostor pro text a fotografie jako v Annonci a na desítkách dalších stránek.   
-- Jestli inzerenta vůbec nějaký klient kontaktoval a jejich případná komunikace probíhalo zcela mimo nás.
+- Jestli inzerenta vůbec nějaký klient kontaktoval a jejich případná komunikace probíhala zcela mimo nás.
 
 **Důležité:**  
 Naše odměna byla stejná bez ohledu na to, zda měl inzerent nula klientů, nebo dvě stě - čistá platba za inzertní prostor.  
@@ -109,18 +110,18 @@ Pokud se obrázek nezobrazuje:
 V celé 430ti stránkové obžalobě **není jediný důkaz kuplířství** kromě popisu fungování webové inzertní platformy spojené s tvrzením, že některé vyjmenované činnosti, které jsme vykonávali jsou "Nad rámec běžné inzerce"
 
 **Obžaloba bod 433:** 
-_“Pakliže se obvinění hájí tím, že v bodu I. byli dlouhodobě oslovováni různými policejními orgány se žádostmi o poskytnutí součinnosti, jimž vždy vyhověli a příslušnou inzerci a údaje o inzerentovi poskytli, a žádným policejním orgánem jim nebylo ani naznačeno, že z jejich strany může docházet k trestně právnímu jednání, a současně jejich konkurence (např. provozovatelé Annonce, Inzert-expressu, apod.) trestně stíhána není, byť činí totéž, co činili obvinění, jeví se tato obhajoba jako účelová, neboť z popisu jednání jim v bodu I., kladeného za vinu i z podkladů ve spise se podává, že systematicky, dlouhodobě a osobně kontrolovali zadané inzeráty, komunikovali s inzerenty, oslovovali je za účelem platby inzerce, o neschválení inzerce z důvodu fotografií vypadajících příliš profesionálně, zabývali se i kontrolami, zda inzerujícím podnikům či privátu skutečně poskytuje sexuální služby za úplatu inzerovaný počet osob, aby tak obv. spol. EOL CZ, s.r.o., a další obvinění nepřicházeli o zisk, neboť ceny inzerce se odvíjely od počtu inzerovaných prostituujících osob. Popsané jednání bylo přitom zcela evidentně nad rámec běžného šíření reklamy, jímž se pokoušeli svoje jednání zakrývat, aby se tak vyhnuli trestnímu postihu.”_
+_“Pakliže se obvinění hájí tím, že v bodu I. byli dlouhodobě oslovováni různými policejními orgány se žádostmi o poskytnutí součinnosti, jimž vždy vyhověli a příslušnou inzerci a údaje o inzerentovi poskytli, a žádným policejním orgánem jim nebylo ani naznačeno, že z jejich strany může docházet k trestně právnímu jednání, a současně jejich konkurence (např. provozovatelé Annonce, Inzert-expressu, apod.) trestně stíhána není, byť činí totéž, co činili obvinění, jeví se tato obhajoba jako účelová, neboť z popisu jednání jim v bodu I., kladeného za vinu i z podkladů ve spise se podává, že systematicky, dlouhodobě a osobně kontrolovali zadané inzeráty, komunikovali s inzerenty, oslovovali je za účelem platby inzerce, o neschválení inzerce z důvodu fotografií vypadajících příliš profesionálně, zabývali se i kontrolami, zda inzerujícím podnikům či privátům skutečně poskytuje sexuální služby za úplatu inzerovaný počet osob, aby tak obv. spol. EOL CZ, s.r.o., a další obvinění nepřicházeli o zisk, neboť ceny inzerce se odvíjely od počtu inzerovaných prostituujících osob. Popsané jednání bylo přitom zcela evidentně nad rámec běžného šíření reklamy, jímž se pokoušeli svoje jednání zakrývat, aby se tak vyhnuli trestnímu postihu.”_
 
-Ani obžaloba tedy přímo nezpochybňuje skutečnost, že existuje rámec běžného šíření reklamy – v tomto případě tedy inzerce erotických služeb. Pouze tvrdí, že pod rouškou běžného šíření reklamy obvinění konali trestnou činnosti spočívajícící v následujících úkonech:
+Ani obžaloba tedy přímo nezpochybňuje skutečnost, že existuje rámec běžného šíření reklamy – v tomto případě tedy inzerce erotických služeb. Pouze tvrdí, že pod rouškou běžného šíření reklamy obvinění konali trestnou činnosti spočívající v následujících úkonech:
 1. dlouhodobě a osobně kontrolovali zadané inzeráty	
 2. komunikovali s inzerenty
 3. oslovovali je za účelem platby inzerce
 4. o neschválení inzerce z důvodu fotografií vypadajících příliš profesionálně
-5. zabývali se i kontrolami, zda inzerujícím podnikům či privátu skutečně poskytuje sexuální služby za úplatu inzerovaný počet osob, aby tak obv. spol. EOL CZ, s.r.o., a další obvinění nepřicházeli o zisk, neboť ceny inzerce se odvíjely od počtu inzerovaných prostituujících osob.
+5. zabývali se i kontrolami, zda inzerujícím podnikům či privátům skutečně poskytuje sexuální služby za úplatu inzerovaný počet osob, aby tak obv. spol. EOL CZ, s.r.o., a další obvinění nepřicházeli o zisk, neboť ceny inzerce se odvíjely od počtu inzerovaných prostituujících osob.
    
 **Stručně k uvedeným bodům:**
 - **Dlouhodobě a osobně kontrolovali zadané inzeráty** - 	
-Kontrola inzerátů je nezbytnou náležitostí provozu inzertního serveru, zejména za účelem prevence protizákonného obsahu (dětská prostituce, dětská pornografie, prodej zakázaného zboží, pomluvy atd.) a zajištěním autentického obsahu. Dlouhodobost této činnosti vychází podstaty provozování inzertního serveru a budování dobrého jména. Osobní kontrola není jedinou formou, existují i automatizované formy kontroly inzerce. Tato praxe je běžná u všech inzertních serverů.
+Kontrola inzerátů je nezbytnou náležitostí provozu inzertního serveru, zejména za účelem prevence protizákonného obsahu (dětská prostituce, dětská pornografie, prodej zakázaného zboží, pomluvy atd.) a zajištěním autentického obsahu. Dlouhodobost této činnosti vychází z podstaty provozování inzertního serveru a budování dobrého jména. Osobní kontrola není jedinou formou, existují i automatizované formy kontroly inzerce. Tato praxe je běžná u všech inzertních serverů.
 - **Komunikovali s inzerenty** - 
 Komunikace s inzerenty je často nezbytnou náležitostí provozu inzertních platforem – od pomoci zadávání inzerátů samotných přes dodržování obchodních podmínek, stanovení rozsahu inzerce, platebních podmínek atd. Komunikace s inzerenty je běžnou praxí všech inzertních serverů.
 - **Oslovovali je za účelem platby inzerce** - 
@@ -136,21 +137,21 @@ Jsou to projevy správy platformy, nikoli organizace prostituce.
 
 Za zmínku stojí i to, jak se obžaloba vypořádala s velice důležitým argumentem, a totiž s tím, že jsme dlouhodobě v mnoha stovkách případů a po mnoho let komunikovali s policií na běžné bázi a neměli jsme sebemenší indikaci toho, že by provoz webu mohl být kvalifikován jako trestná činnost, protože kdyby policisté, kteří s námi jednali **a to zejména policisté zabývající se mravnostními delikty**, vyhodnotili provoz webu jako možné kuplířství, museli by dle zákona začít konat. Ze stovel případů se toto nestalo nikdy. S naším argumentem se státní zástupkyně vypořádala tak, **že ho označila za účelový**. To ale není vůbec logická argumentační odpověď. Postrádá to informační hodnotu. Nedává to z žádného úhlu sebemenší smysl, kromě toho, že paní státní zástupkyně ve skutečnosti žádný skutečný protiargument nemá. Ano, účelově jsme se hájili tím, co nám přišlo jako logické. WTF
 
-Také je třeba poukázat na větu _"Popsané jednání bylo přitom zcela evidentně nad rámec běžného šíření reklamy, jímž se pokoušeli svoje jednání zakrývat, aby se tak vyhnuli trestnímu postihu."_ Popsaným jednáním, které je, podle paní státní zástupkyně, nad rámec běžného šíření reklamy totiž podle ní zakrýváme své pravé jednání, kterým je ale co? To je právě definované těmi samými činnostmi. Žádné jiné jednání v obžalobě v souvislosti s tímto tredným činem popsané není a ani jsme nic jiného nedělali. Tauntologie v praxi.
+Také je třeba poukázat na větu _"Popsané jednání bylo přitom zcela evidentně nad rámec běžného šíření reklamy, jímž se pokoušeli svoje jednání zakrývat, aby se tak vyhnuli trestnímu postihu."_ Popsaným jednáním, které je, podle paní státní zástupkyně, nad rámec běžného šíření reklamy totiž podle ní zakrýváme své pravé jednání, kterým je ale co? To je právě definované těmi samými činnostmi. Žádné jiné jednání v obžalobě v souvislosti s tímto trestným činem popsané není a ani jsme nic jiného nedělali. Tautologie v praxi.
 
 ---
 
-# **Dalším bodem obžaloby je velikost**
+**Dalším bodem obžaloby je velikost**
 
-Z důvodů naprosté nepřítomnosti jakýchkoli skutečných důkazů reálného kuplířství maskuje obžaloba jejich absenci svou velikostí - **430 stran**. Na skutečné důkazy totiž mnoho stránek nepotřebujete. 
+Tohle není standardní argument a osobně bych ho nepoužil, kdybych tuto informaci nezískal od své matky JUDr. Jany Červinkové, která vykonávala celý svůj život profesi soudce, a to během posledních 16 let v pozici předsedkyně soudů pro Prahu 8 a pro Prahu 1. Ta tvrdí, že pokud se před soudce dostane spis, který je ohromný, tak se toho běžný soudce s velkou pravděpodobností může zaleknout a nebude věřit tomu, že tam nic není. Přece by si takové množství lidí nedalo tak nepředstavitelnou práci, kdyby na tom něco nebylo. A dále tvrdí, že tohle zřejmě stojí za ohromnou velikostí spisu v naší kauze (přes 20 tisíc stran a přes 1000 hodin odposlechů), spis je plný vycpávek a informací, které k ničemu nejsou protože buď nic nedokazují, nebo jsou násobně redundantní. A samotná obžaloba díky nepřítomnosti jakýchkoli skutečných důkazů reálného kuplířství maskuje tuto absenci také velikostí - **430 stran**. Na skutečné důkazy totiž mnoho stránek nepotřebujete. 
 
 **Příklad:** V ulici té a té provozovali ve druhém patře podnik "U veselé paničky", kde inkasovali polovinu příjmů tří osob provozujících prostituci. Jednalo se o Anežku S. Romanu K. a Jiřinu D. Zmíněnou činnost vykonávali minimálně v roce 2019 a v roce 2020. 
 
-Pro srovnání aktualizovaná obžaloba Nicolase Madura z letošního ledna má celkem **25 stran**, ve kterých je kompletně sepsáno spiknutí k narkoterorismu, spiknutí k dovozu kokainu a držení a spiknutí k držení těžkých zbraní. Takové věci se totiž dají napsat na pár stránek. Problém je, když důkazy nemáte a potřebujete to nějak zamaskovat. V takovém případě jich napíšete například 430 Protože celkem oprávněně věříte, že si soudce před tou hromadou řekne. Tam něco určite je. **Ale není.**
+Pro srovnání aktualizovaná obžaloba Nicolase Madura z letošního ledna má celkem **25 stran**, ve kterých je kompletně sepsáno spiknutí k narkoterorismu, spiknutí k dovozu kokainu a držení a spiknutí k držení těžkých zbraní. Takové věci se totiž dají napsat na pár stránek. Podle JUDr. Jany Červinkové (matka) a kolegů se kterými to konzultovala je rozsah obžaloby v mojí kauze takový, aby si soudce řekl. Tam něco určite je. **Ale není.**
 
-S tím souvisí i navrhovaná výše trestů aby vše vypadalo jako monstr kolosální případ, ve kterém přeci určitě něco je. Tak například naši programátoři mají paní státní zástupkyní navrženou výši trestu 7.5 let nepodmíněně a starobní důchodkyně, která si prokazatelně pouze pomohla k plnění v hodnotě 4.000,-kč bez DPH měsíčně tím, že dělala pro sex.cz malou administrativu má podle státní zástupkyně po zásluze spravedlivě za tento zločin ve svých 75ti letech navrzenou výši trestu 7 let nepodmíněně. Mě osobně navrhuhuje paní státní zástupkyně 9 let nepodmíněně plus propadnutí majetku kam mimo jiné patří rodinný dům, který na mne moji rodiče přepsali ani ne rok před zákrokem NCOZ a který nemá ani podle obžaloby s případem nic společného.
+S tím souvisí i navrhovaná výše trestů aby vše vypadalo jako monstr kolosální případ. Tak například naši programátoři mají paní státní zástupkyní navrženou výši trestu 7.5 let nepodmíněně a starobní důchodkyně, která si prokazatelně pouze pomohla k plnění v hodnotě 4.000,-kč bez DPH měsíčně tím, že dělala pro sex.cz malou administrativu má podle státní zástupkyně po zásluze spravedlivě za tento zločin ve svých 75ti letech navrženou výši trestu 7 let nepodmíněně. Mě osobně navrhuje paní státní zástupkyně 9 let nepodmíněně plus propadnutí majetku kam mimo jiné patří rodinný dům, který na mne moji rodiče přepsali ani ne rok před zákrokem NCOZ a který nemá ani podle obžaloby s případem nic společného.
 
-Finální důkaz neexistence jakýkoli skutečných důkazů trestné činnosti (kromě provozování webu samotného) dokládá sama státní zástupkyně na závěr obžaloby. Na místo, kde má být ten nejjasnější důkaz. Kde by mělo zaznít: _"A hlavně na vražedné zbrani jsou otisky obžalovaného!"_, prostě na místě kde má být _Crème de la Create_ obžaloby jako nejprůkaznější důkaz viny, paní státní zástupkyně uvádí, že si dva obžalovaní v soukromém telefonním hovoru řekli že **je to o mrdání a penězích**. Tato pronesená slova jsou to, co je za rok a půl odposlechu a mnoho desítel milionů investovaných do tohoto vyšetřování to nejvíc inkriminující co na tomto míste paní státní zástupkyně dokázala uvést. 
+Finální důkaz neexistence jakýchkoli skutečných důkazů trestné činnosti (kromě popisu provozování webu samotného) dokládá sama státní zástupkyně na samotný závěr obžaloby. Na místo, kde má být ten nejjasnější důkaz. Kde by mělo zaznít: _"A hlavně na vražedné zbrani jsou otisky obžalovaného!"_, prostě na místě kde má být _crème de la crème_ obžaloby jako nejprůkaznější důkaz viny, paní státní zástupkyně uvádí, že si dva obžalovaní v soukromém telefonním hovoru řekli že **je to o mrdání a penězích**. Tato pronesená slova jsou to, co je za rok a půl odposlechu (přes tisíc hodin) a mnoho desítek milionů investovaných do tohoto vyšetřování to nejvíc inkriminující, co na tomto místě paní státní zástupkyně dokázala uvést. 
 
 ---
 
@@ -176,7 +177,7 @@ Protože obžaloba tvrdí, že už samotná placená inzerce znamená „umožn�
 Ne. Po ukončení portálu se inzerce okamžitě přesunula jinam. To je realita trhu.
 
 ### Co znamená „organizovaná zločinecká skupina“ v mém případě?
-Organizovaná zločinecká skupina není totéž co organizovaná firma ačkoli mají velikou řadu solečných znaků. Abych byl jejím členem, muselo by se prokázat, že jsem věděl, že se účastním struktury určené k páchání trestné činnosti.
+Organizovaná zločinecká skupina není totéž co organizovaná firma ačkoli mají velikou řadu společných znaků. Abych byl jejím členem, muselo by se prokázat, že jsem věděl, že se účastním struktury určené k páchání trestné činnosti.
 
 Já ale měl (a stále mám) racionální důvody věřit, že jsem se podílel na legálním podnikání: prodeji reklamy, s právním prověřením a dlouhodobou tolerancí trhu bez jakékoli indicie (tedy do podzimu 2023), že by to mohlo být jinak.
 
@@ -190,4 +191,4 @@ Po prostudování obžaloby jsem ještě více přesvědčen, že moje část p�
 
 Já tvrdím, že ne.
 
-Kontakt: <pripad@gods.cz>
+Kontakt pro dotazy: <pripad@gods.cz>
