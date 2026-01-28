@@ -16,7 +16,7 @@
 
 # Jakub Červinka: Moje osobní vyjádření k případu „sex.cz“
 
-**Poslední aktualizace:** (28.1.2026) _Aktualizace o nové, relevantní rozhodnutí Evropskeho soudu, stylystycká úprava textu._ (19.1.2026)  
+**Poslední aktualizace:** (28.1.2026) _Aktualizace o nové, relevantní rozhodnutí Evropského soudu; stylistická úprava textu._ (19.1.2026)  
 _Doplněna upřesnění k několika odstavcům.
 (18.1.2026) Obžalobu (cca 430 stran) jsem prošel celou. Tento text je aktualizovaný po jejím prostudování._
 
