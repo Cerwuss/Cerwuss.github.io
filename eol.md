@@ -16,9 +16,21 @@
 
 # Jakub Červinka: Moje osobní vyjádření k případu „sex.cz“
 
-**Poslední aktualizace:** (19.1.2026)  
+**Poslední aktualizace:** (28.1.2026) _Aktualizace o nové, relevantní rozhodnutí Evropskeho soudu, stylystycká úprava textu._ (19.1.2026)  
 _Doplněna upřesnění k několika odstavcům.
 (18.1.2026) Obžalobu (cca 430 stran) jsem prošel celou. Tento text je aktualizovaný po jejím prostudování._
+
+### Aktualizace: nové rozhodnutí evropské judikatury k povinnostem provozovatelů inzerce
+
+Po zveřejnění tohoto textu bylo vydáno nové rozhodnutí Soudního dvora Evropské unie, které se týká odpovědnosti provozovatelů online inzertních platforem za obsah inzerátů. Ačkoli se toto rozhodnutí netýká trestného činu kuplířství, považuji jej za mimořádně významné pro posouzení toho, co lze považovat za běžnou a legitimní inzertní činnost.
+
+Soudní dvůr Evropské unie v tomto rozhodnutí výslovně konstatuje, že provozovatel online tržiště není pouhým pasivním zprostředkovatelem obsahu, ale nese odpovědnost za zpracování osobních údajů obsažených v inzerátech. Z toho vyplývá povinnost **aktivně identifikovat, kontrolovat a v relevantních případech ověřovat či odmítat inzeráty**, zejména pokud obsahují citlivé údaje nebo mohou být protiprávní. Kontrola obsahu inzerce tedy není excesem ani něčím „nad rámec běžné inzerce“, ale naopak **součástí řádného a odpovědného provozu inzertní platformy**, kterou evropské právo výslovně předpokládá a vyžaduje.
+
+Tento závěr je zásadní právě ve vztahu k argumentaci obžaloby v mém případě. Obžaloba totiž sama připouští existenci rámce běžné inzertní činnosti, který považuje za legitimní, avšak tvrdí, že jsem se z tohoto rámce vymykal právě tím, že jsme prováděli kontrolu obsahu inzerátů. Podle této logiky má být právě kontrola inzerce tím prvkem, který údajně proměňuje běžnou inzertní činnost v kuplířství.
+
+Nejnovější evropská judikatura však tento předpoklad obrací: **kontrola inzerátů není znakem excesu, ale znakem běžné a povinné inzertní činnosti**. To, co je v obžalobě prezentováno jako vybočení z rámce běžné inzerce, je podle práva Evropské unie naopak jejím nezbytným znakem. Tento rozpor považuji za nový, klíčový aspekt pro posouzení celé věci.
+
+
 
 ---
 
@@ -56,7 +68,7 @@ Toto spojení vytváří tzv. *halo efekt* a zcela **zastiňuje jedinou skutečn
 
 **Je mi kladeno za vinu:**
 - že jsem se podílel na provozu inzertní platformy (technický provoz, vývoj, standardní provozní procesy)
-- že jsem věděl, co je obsahem inzerátů na webu sex.cz.
+- že mi bylo zřejmé, jaký typ inzerce se na portálu typicky objevuje.
   
   **To je pravda.** Skutečně jsem výše zmíněné činnosti dělal. Pochopitelně jsem ani náhodou drtivou většinu inzerátů na webech sex.cz nečetl, přičemž povaha inzerce na portálu byla obecně známá a odpovídala standardu erotických inzertních serverů.
   
@@ -150,16 +162,17 @@ Výsledkem je argumentační kruh, v němž jsou běžné provozní činnosti in
 
 ---
 
-Dalším bodem obžaloby je samotný rozsah celého případu. Trestní spis má skoro třicet tisíc stran a obžaloba 430 stran, což přirozeně vytváří dojem mimořádně závažné a komplexní trestné činnosti. Takový rozsah u čtenáře i soudu vzbuzuje očekávání existence konkrétních a přesvědčivých důkazů.
-Při podrobném prostudování obžaloby se však ukazuje výrazný nepoměr mezi touto formální mohutností a jejím skutkovým obsahem ve vztahu ke mně i dalším obžalovaným. Kromě detailního popisu provozních činností spojených s fungováním inzertního portálu zde nejsou uvedeny konkrétní skutky, které by odpovídaly typickým znakům kuplířství, jako je nátlak, donucování, řízení osob, kontrola jejich činnosti nebo přímé odčerpávání výdělků.
-Vzniká tak výrazný nepoměr mezi formální mohutností celého případu a absencí konkrétních skutkových tvrzení, která by tuto mohutnost obsahově naplňovala. Rozsah spisu a obžaloby tak podle mého názoru vytváří silný psychologický efekt závažnosti, který však není vyvážen odpovídajícími skutkovými tvrzeními a důkazy o trestné činnosti v podobě, v jaké je mi kladena za vinu.
+Dalším bodem obžaloby je samotný rozsah celého případu. Trestní spis má přibližně třicet tisíc stran a obžaloba 430 stran, což přirozeně vytváří dojem mimořádně závažné a komplexní trestné činnosti. Takový rozsah u čtenáře i soudu vzbuzuje očekávání existence konkrétních a přesvědčivých důkazů.
+Při podrobném prostudování obžaloby se však ukazuje výrazný nepoměr mezi touto formální mohutností a konkrétním skutkovým obsahem ve vztahu ke mně i dalším obžalovaným. Kromě detailního popisu provozních činností spojených s fungováním inzertního portálu zde nejsou uvedeny konkrétní skutky, které by odpovídaly typickým znakům kuplířství, jako je nátlak, donucování, řízení osob, kontrola jejich činnosti nebo přímé odčerpávání výdělků.
+Rozsah spisu a obžaloby tak podle mého názoru vytváří silný psychologický efekt závažnosti, který však není vyvážen odpovídajícími skutkovými tvrzeními a důkazy o trestné činnosti v podobě, v jaké je mi kladena za vinu.
 
-Za zásadní považuji také navrhovanou výši trestů, která je v extrémním nepoměru k povaze jednání, jež je jednotlivým obviněným kladeno za vinu. Tento nepoměr je patrný nejen ve vztahu ke mně, ale i ve vztahu k dalším osobám, jejichž role v celé věci byla ryze technická nebo administrativní.
-U osob, které se podílely výhradně na technickém provozu, vývoji či základní administrativě inzertního portálu, jsou navrhovány mnohaleté nepodmíněné tresty odnětí svobody. V jednom z případů se návrh trestu týká i osoby ve vysokém věku, jejíž činnost spočívala pouze v omezené administrativní výpomoci v řádu několika tisíc korun měsíčně. Tyto osoby nejsou obžalovány z násilí, nátlaku, zneužívání ani organizace poskytování sexuálních služeb, přesto jim hrozí tresty srovnatelné s tresty ukládanými za závažnou násilnou nebo hospodářskou kriminalitu.
+Za zásadní považuji také navrhovanou výši trestů, která je v extrémním nepoměru k povaze jednání, jež je jednotlivým obviněným kladeno za vinu. Tento nepoměr je patrný nejen ve vztahu ke mně, ale i ve vztahu k dalším osobám, jejichž role v celé věci byla také ryze technická nebo administrativní.
+U osob, které se podílely výhradně na technickém provozu, vývoji či základní administrativě inzertního portálu, jsou navrhovány mnohaleté nepodmíněné tresty odnětí svobody. V jednom z případů se návrh trestu týká i osoby ve vysokém věku, jejíž činnost spočívala pouze v omezené administrativní výpomoci v řádu několika tisíc korun měsíčně. 
+V části obžaloby týkající se kuplířství jim není přičítáno žádné konkrétní násilné jednání ani skutky typické pro kuplířství v jeho obvyklé podobě (nátlak, donucování, řízení osob, kontrola jejich činnosti či přímé odčerpávání výdělků z jednotlivých služeb), neboť tyto skutky jsou v obžalobě spojovány s jinou skutkovou linií a jinou osobou.
 
 V mém případě je na základě této právní kvalifikace navrhován trest v délce devíti let nepodmíněně, doplněný o trest propadnutí majetku, včetně rodinného domu, který nemá ani podle obžaloby žádnou skutkovou souvislost s projednávaným jednáním. Tento návrh trestu vychází výlučně z právního závěru, že samotná existence a technický provoz inzertní platformy má být považován za kuplířství, nikoli z tvrzení o konkrétních skutkových projevech typických pro tuto trestnou činnost, jako je nátlak, donucování, řízení osob, kontrola jejich činnosti nebo přímé odčerpávání výdělků z jednotlivých služeb.
 
-Výsledkem je situace, kdy jsou na základě jediné právní teze o povaze inzertní služby navrhovány tresty srovnatelné s tresty ukládanými recidivistům za závažnou násilnou nebo organizovanou trestnou činnost. Tento nepoměr mezi abstraktní právní konstrukcí a konkrétním skutkovým obsahem považuji za jeden z nejproblematičtějších aspektů celé kauzy, a to jak z právního, tak z lidského hlediska.
+Výsledkem je situace, kdy jsou na základě jediné právní teze o povaze inzertní služby navrhovány tresty srovnatelné s tresty ukládanými za závažnou násilnou nebo organizovanou trestnou činnost. Tento nepoměr mezi abstraktní právní konstrukcí a konkrétním skutkovým obsahem považuji za jeden z nejproblematičtějších aspektů celé kauzy, a to jak z právního, tak z lidského hlediska.
 
 Po prostudování celé obžaloby jsem ještě více přesvědčen, že moje část této kauzy stojí na jediné otázce: zda lze samotné provozování inzertní platformy s pevnou cenou za reklamu považovat za kuplířství. Jde o právní kvalifikaci technického a provozního fungování služby, nikoli o posuzování násilí, nátlaku, donucování nebo přímé organizace prostituce. Právě v této rovině byla i moje role výhradně technická a administrativní.
 
