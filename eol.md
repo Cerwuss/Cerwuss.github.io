@@ -30,6 +30,10 @@ Tento závěr je zásadní právě ve vztahu k argumentaci obžaloby v mém př�
 
 Nejnovější evropská judikatura však tento předpoklad obrací: **kontrola inzerátů není znakem excesu, ale znakem běžné a povinné inzertní činnosti**. To, co je v obžalobě prezentováno jako vybočení z rámce běžné inzerce, je podle práva Evropské unie naopak jejím nezbytným znakem. Tento rozpor považuji za nový, klíčový aspekt pro posouzení celé věci.
 
+Rozsudek Soudního dvora Evropské unie a jeho shrnutí na odborném právním portálu Právní prostor:  
+https://www.pravniprostor.cz/judikatura/mezinarodni-a-evropske-pravo/falesny-inzerat-na-sexualni-sluzby
+
+
 
 
 ---
