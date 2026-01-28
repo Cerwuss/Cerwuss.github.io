@@ -27,7 +27,7 @@ _Doplněna upřesnění k několika odstavcům.
 Drtivá většina obžaloby se týká skutků Andreje Anastasova jako soukromé osoby  
 (násilné, mravnostní a drogové skutky).
 
-**S těmito věcmi nemám nic společného a nejsem z nich obviněn.**  
+**S těmito věcmi ani podle obžaloby nemám nic společného a nejsem z nich obviněn.**  
 Proto se zde o těchto skutečnostech nehodlám dále vyjadřovat ani je hodnotit.  
 Vyjadřuji se výhradně k jediné věci, která je mi (a několika dalším osobám) kladena za vinu:
 
@@ -151,8 +151,9 @@ Výsledkem je argumentační kruh, v němž jsou běžné provozní činnosti in
 ---
 
 **Dalším bodem obžaloby je velikost**
+
 Za významný považuji i samotný rozsah trestního spisu a obžaloby. Celý případ je zpracován v mimořádně objemném rozsahu – trestní spis čítá desítky tisíc stran a obžaloba má přibližně 430 stran. Takový rozsah přirozeně vyvolává dojem mimořádně závažné a komplexní trestné činnosti, u níž by laik i soudce mohli předpokládat existenci konkrétních a přesvědčivých důkazů.
-Při podrobném prostudování obžaloby se však ukazuje, že tento dojem není podložen odpovídajícím skutkovým obsahem vztahujícím se k mé osobě. Kromě popisu provozních činností spojených s fungováním inzertního portálu zde nejsou uvedeny žádné konkrétní skutky, které by odpovídaly typickým znakům kuplířství, jako je nátlak, organizace poskytování sexuálních služeb, kontrola osob, přímé odčerpávání výdělků nebo jiné formy donucení či řízení.
+Při podrobném prostudování obžaloby se však ukazuje, že tento dojem není podložen odpovídajícím skutkovým obsahem. Kromě popisu provozních činností spojených s fungováním inzertního portálu zde nejsou uvedeny žádné konkrétní skutky, které by odpovídaly typickým znakům kuplířství, jako je nátlak, organizace poskytování sexuálních služeb, kontrola osob, přímé odčerpávání výdělků nebo jiné formy donucení či řízení.
 Vzniká tak výrazný nepoměr mezi formální mohutností celého případu a absencí konkrétních skutkových tvrzení, která by tuto mohutnost obsahově naplňovala. Rozsah spisu a obžaloby zde podle mého názoru vytváří silný psychologický efekt závažnosti, který však není vyvážen odpovídajícími důkazy o trestné činnosti v podobě, v jaké je mi kladena za vinu.
 
 Za zásadní považuji také navrhovanou výši trestů, která je v extrémním nepoměru k povaze jednání, jež je jednotlivým obviněným kladeno za vinu. Tento nepoměr je patrný nejen ve vztahu ke mně, ale i ve vztahu k dalším osobám, jejichž role v celé věci byla ryze technická nebo administrativní.
@@ -162,7 +163,14 @@ V mém případě je na základě této právní kvalifikace navrhován trest v 
 
 Výsledkem je situace, kdy jsou na základě jediné právní teze o povaze inzertní služby navrhovány tresty srovnatelné s tresty ukládanými za závažnou násilnou nebo organizovanou trestnou činnost ba i vraždu. Tento nepoměr mezi abstraktní právní konstrukcí a konkrétním skutkovým obsahem považuji za jeden z nejproblematičtějších aspektů celé kauzy, a to jak z právního, tak z lidského hlediska.
 
-Finální důkaz neexistence jakýchkoli skutečných důkazů trestné činnosti (kromě detailního popisu provozování webu samotného) dokládá státní zástupkyně na samotný závěr obžaloby. Na místo, kde má být ten nejjasnější důkaz. Kde by mělo zaznít: _"A hlavně na vražedné zbrani jsou otisky obžalovaného!"_, prostě na místě kde má být _crème de la crème_ obžaloby jako nejprůkaznější důkaz viny, paní státní zástupkyně uvádí, že si dva obžalovaní v soukromém telefonním hovoru řekli že **je to o mrdání a penězích**. Tato pronesená slova jsou to, co je za rok a půl odposlechu (přes tisíc hodin) a mnoho desítek milionů investovaných do tohoto vyšetřování to nejvíc inkriminující, co na tomto místě paní státní zástupkyně dokázala uvést. 
+Po prostudování celé obžaloby jsem ještě více přesvědčen, že moje část této kauzy stojí na jediné otázce: zda lze samotné provozování inzertní platformy s pevnou cenou za reklamu považovat za kuplířství. Jde o právní kvalifikaci technického a provozního fungování služby, nikoli o posuzování násilí, nátlaku, donucování nebo přímé organizace prostituce. Právě v této rovině byla i moje role výhradně technická a administrativní.
+
+Celý případ je zpracován v mimořádně rozsáhlém formálním rámci, který budí dojem závažné a komplexní trestné činnosti. Při jeho podrobném čtení však ve vztahu ke mně i dalším obžalovaným postrádám konkrétní skutková tvrzení a důkazy, které by odpovídaly podstatě trestného činu, z něhož jsem obviněn. Tato absence je patrná i v samotném závěru obžaloby, tedy na místě, kde by logicky měly být shrnuty nejsilnější a nejpřesvědčivější důkazy viny.
+
+Namísto konkrétního skutku, který by prokazoval kořistění z prostituce v jeho obvyklém smyslu, je zde jako nejvýraznější prvek uváděn obsah soukromé telefonické komunikace, zachycené v rámci dlouhodobých odposlechů. Jde o emocionální a neformální vyjádření frustrace bez jakékoli relevance ke skutkové podstatě trestného činu, nikoli o popis trestné činnosti. Fakt, že právě tento typ výroku je prezentován jako vrchol, creme de la creme, obžalobního dokazování, ve mně jen posiluje pochybnost o existenci skutečných důkazů kuplířství.
+
+Tento stav ve mně vyvolává silný pocit nespravedlnosti. Přesto věřím, že při věcném a nestranném posouzení bude zřejmé, že samotný technický a provozní popis fungování inzertní platformy – byť spojené s erotickou inzercí – nelze bez dalšího ztotožnit s kuplířstvím a dovozovat z něj trestní odpovědnost s takto závažnými důsledky. O to jediné mi v tomto vyjádření jde.
+
 
 ---
 
