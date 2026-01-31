@@ -131,7 +131,7 @@ Obžaloba v tomto bodě vychází z premisy, že ačkoli obvinění formálně v
 
 Podstatou výhrady obžaloby je tvrzení, že určité provozní a administrativní činnosti spojené se správou inzertního portálu nejsou běžnou součástí inzerce, ale mají představovat zakrytou formu trestné činnosti.
 
-Konkrétně obžaloba za jednání „nad rámec běžné inzerce“ považuje zejména:
+Konkrétně obžaloba za jednání „nad rámec běžné inzerce“ považuje:
 1. moderaci a kontrolu obsahu inzerce,
 2. provozní komunikaci s klienty inzertní služby,
 3. administraci plateb za zveřejnění inzerce,
